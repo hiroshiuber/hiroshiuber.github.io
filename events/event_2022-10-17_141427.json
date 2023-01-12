@@ -1,0 +1,53 @@
+{
+  "tag": "2022-10-17_141427",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Sign up to ride",
+      "children": [
+        1279,
+        1280,
+        1281,
+        1282
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1568
+        ],
+        [
+          1017,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1272,
+      "temp_id": 1278,
+      "size": "951*582",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c817f0459732cb71742051c5dbe9e063"
+    }
+  },
+  "start_state": "d86d79d98a2da67ca189a07fad8e48c3",
+  "stop_state": "d86d79d98a2da67ca189a07fad8e48c3",
+  "event_str": "TouchEvent(state=d86d79d98a2da67ca189a07fad8e48c3, view=c817f0459732cb71742051c5dbe9e063(CarbonActivity/View-))"
+}

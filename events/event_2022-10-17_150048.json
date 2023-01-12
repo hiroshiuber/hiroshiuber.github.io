@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_150048",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": " Sign up to drive",
+      "children": [
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1271
+        ],
+        [
+          528,
+          1408
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 66,
+      "temp_id": 67,
+      "size": "462*137",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "39cc3e4888998affb2236f51128449c4"
+    }
+  },
+  "start_state": "e13e949d954d094ff658126d3fe2f583",
+  "stop_state": "e13e949d954d094ff658126d3fe2f583",
+  "event_str": "TouchEvent(state=e13e949d954d094ff658126d3fe2f583, view=39cc3e4888998affb2236f51128449c4(CarbonActivity/View-))"
+}

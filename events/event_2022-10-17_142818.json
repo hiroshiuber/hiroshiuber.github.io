@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142818",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          451,
+          1370
+        ],
+        [
+          629,
+          1548
+        ]
+      ],
+      "resource_id": "warning-sign",
+      "checked": false,
+      "text": "Warning Sign",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 96,
+      "size": "178*178",
+      "signature": "[class]android.widget.Image[resource_id]warning-sign[text]Warning Sign[enabled,,]",
+      "view_str": "053f768d1baca284d29af1d5a7a0e1d8"
+    }
+  },
+  "start_state": "273b622cd1ed59888fa588c5e481999e",
+  "stop_state": "273b622cd1ed59888fa588c5e481999e",
+  "event_str": "TouchEvent(state=273b622cd1ed59888fa588c5e481999e, view=053f768d1baca284d29af1d5a7a0e1d8(CarbonActivity/Image-Warning Si))"
+}

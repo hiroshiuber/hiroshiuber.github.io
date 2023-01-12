@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135624",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1463
+        ],
+        [
+          669,
+          1584
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/destination_inspection_sheet_title",
+      "checked": false,
+      "text": "HUMANOID Store",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "625*121",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/destination_inspection_sheet_title[text]HUMANOID Store[enabled,,]",
+      "view_str": "f475e7c55a05b4843d353014e02e31a9"
+    }
+  },
+  "start_state": "659b5600b1f9de20777d2d00c1e427af",
+  "stop_state": "659b5600b1f9de20777d2d00c1e427af",
+  "event_str": "TouchEvent(state=659b5600b1f9de20777d2d00c1e427af, view=f475e7c55a05b4843d353014e02e31a9(CarbonActivity/TextView-HUMANOID S))"
+}

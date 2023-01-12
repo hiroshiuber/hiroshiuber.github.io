@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145216",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Become a Rideshare Driver in Your City | Uber",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Become a Rideshare Driver in Your City | Uber[enabled,,]",
+      "view_str": "86c503f25a8bdb43af3d122ab4cdf280"
+    },
+    "direction": "RIGHT"
+  },
+  "start_state": "d525fa0ca08e1fae7812267800dc9847",
+  "stop_state": "8343ca94bc4eb8bc23d4c3e87dee1795",
+  "event_str": "ScrollEvent(state=d525fa0ca08e1fae7812267800dc9847, view=86c503f25a8bdb43af3d122ab4cdf280(CarbonActivity/WebView-Become a R), direction=RIGHT)"
+}

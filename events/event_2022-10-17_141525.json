@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141525",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1741
+        ],
+        [
+          1039,
+          1821
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "50 Oak St",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 90,
+      "size": "995*80",
+      "signature": "[class]android.view.View[resource_id]None[text]50 Oak St[enabled,,]",
+      "view_str": "d329f492181688c8a3c580d3370325b7"
+    }
+  },
+  "start_state": "46d62290439b39200fa32ec94bbcf0ff",
+  "stop_state": "46d62290439b39200fa32ec94bbcf0ff",
+  "event_str": "TouchEvent(state=46d62290439b39200fa32ec94bbcf0ff, view=d329f492181688c8a3c580d3370325b7(CarbonActivity/View-50 Oak St))"
+}

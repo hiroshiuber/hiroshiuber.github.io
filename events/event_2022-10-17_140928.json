@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_140928",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          347
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "How Uber Pro Works",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "1083*1803",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]How Uber Pro Works[enabled,,]",
+      "view_str": "5c516a74b03224e79f885e6283f34afd"
+    },
+    "direction": "RIGHT"
+  },
+  "start_state": "05ad585c6492536dd8ea251d0b80c81b",
+  "stop_state": "05ad585c6492536dd8ea251d0b80c81b",
+  "event_str": "ScrollEvent(state=05ad585c6492536dd8ea251d0b80c81b, view=5c516a74b03224e79f885e6283f34afd(CarbonActivity/WebView-How Uber P), direction=RIGHT)"
+}

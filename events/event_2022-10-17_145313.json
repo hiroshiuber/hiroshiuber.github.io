@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145313",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1826
+        ],
+        [
+          352,
+          1887
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "A guide to Uber",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 79,
+      "temp_id": 80,
+      "size": "308*61",
+      "signature": "[class]android.view.View[resource_id]None[text]A guide to Uber[enabled,,]",
+      "view_str": "ed4110a7613a15e4b98d354fcd2c633e"
+    }
+  },
+  "start_state": "ebd30751e384ce3bc0cf7e3150d99957",
+  "stop_state": "b2fd9dd4d7d21b0debad1e6bc0decf49",
+  "event_str": "TouchEvent(state=ebd30751e384ce3bc0cf7e3150d99957, view=ed4110a7613a15e4b98d354fcd2c633e(CarbonActivity/View-A guide to))"
+}

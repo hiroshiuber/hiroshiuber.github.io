@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144715",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1056
+        ],
+        [
+          1017,
+          1194
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Drive on the platform with the largest network of active\u00a0riders.",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 65,
+      "size": "951*138",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "fe203087d8c7b6377e6b5c77e7c0d988"
+    }
+  },
+  "start_state": "e13e949d954d094ff658126d3fe2f583",
+  "stop_state": "e13e949d954d094ff658126d3fe2f583",
+  "event_str": "TouchEvent(state=e13e949d954d094ff658126d3fe2f583, view=fe203087d8c7b6377e6b5c77e7c0d988(CarbonActivity/View-Drive on t))"
+}

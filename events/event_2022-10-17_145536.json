@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145536",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "I think someone hacked my account | Bikes & Scooters - Uber Help",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "57bc644ac98c1d0ef629963bf592777a"
+    },
+    "direction": "RIGHT"
+  },
+  "start_state": "b7724bf06e4cf00703d3a6a74ceb7cca",
+  "stop_state": "b7724bf06e4cf00703d3a6a74ceb7cca",
+  "event_str": "ScrollEvent(state=b7724bf06e4cf00703d3a6a74ceb7cca, view=57bc644ac98c1d0ef629963bf592777a(CarbonActivity/WebView-I think so), direction=RIGHT)"
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_145506",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u0986\u09ae\u09bf \u09b8\u09be\u0987\u09a8 \u0987\u09a8 \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u099b\u09bf \u09a8\u09be Chevron right small",
+      "children": [
+        76
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1422
+        ],
+        [
+          1039,
+          1548
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 75,
+      "size": "995*126",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    }
+  },
+  "start_state": "64e178fe22a9131a535c5960c735fb7c",
+  "stop_state": "3f9770da7f2e9433bd77d1b3c3c47d0d",
+  "event_str": "TouchEvent(state=64e178fe22a9131a535c5960c735fb7c, view=14e92fa1b2a1aa152baad9944b5c080a(CarbonActivity/View-))"
+}

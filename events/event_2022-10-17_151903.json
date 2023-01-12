@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_151903",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.documentsui",
+      "visible": true,
+      "checkable": true,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          674,
+          347
+        ],
+        [
+          995,
+          479
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Large files",
+      "class": "com.google.android.material.chip.Chip",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 30,
+      "size": "321*132",
+      "signature": "[class]com.google.android.material.chip.Chip[resource_id]None[text]Large files[enabled,,]",
+      "view_str": "64136bad15b329edd088b0c5a87564b7"
+    }
+  },
+  "start_state": "3357d013239e157a01b4d85ce6a332b6",
+  "stop_state": "2f6ca67f104c87be3c133560b5e6961d",
+  "event_str": "TouchEvent(state=3357d013239e157a01b4d85ce6a332b6, view=64136bad15b329edd088b0c5a87564b7(PickActivity/Chip-Large file))"
+}

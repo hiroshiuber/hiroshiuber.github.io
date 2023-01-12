@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140657",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1436
+        ],
+        [
+          1017,
+          1700
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "High acceptance rates mean shorter wait times for customers and shorter pickup times for all drivers, so you can spend more time on trip, earning.",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 46,
+      "temp_id": 47,
+      "size": "951*264",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "cf47994b2a29d2b4e2ce5dcf67d8c80b"
+    }
+  },
+  "start_state": "18dea9f841f0b1637c7bc5a034d3e6ee",
+  "stop_state": "18dea9f841f0b1637c7bc5a034d3e6ee",
+  "event_str": "TouchEvent(state=18dea9f841f0b1637c7bc5a034d3e6ee, view=cf47994b2a29d2b4e2ce5dcf67d8c80b(CarbonActivity/View-High accep))"
+}

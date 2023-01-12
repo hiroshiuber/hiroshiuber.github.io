@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140504",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1805
+        ],
+        [
+          1036,
+          1959
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/help_inperson_finalize_appointment_submit",
+      "checked": false,
+      "text": "Schedule",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 42,
+      "size": "992*154",
+      "signature": "[class]android.widget.Button[resource_id]com.ubercab.driver:id/help_inperson_finalize_appointment_submit[text]Schedule[enabled,,]",
+      "view_str": "5c34317cb5f75296b3c662efff8c7fa1"
+    }
+  },
+  "start_state": "93b7df0a982a67738eb5b9e61df819c3",
+  "stop_state": "53d3a0184e8fbb6e2a1c6e13ddb525d6",
+  "event_str": "TouchEvent(state=93b7df0a982a67738eb5b9e61df819c3, view=5c34317cb5f75296b3c662efff8c7fa1(CarbonActivity/Button-Schedule))"
+}

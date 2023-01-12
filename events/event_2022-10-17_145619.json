@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145619",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          244,
+          1609
+        ],
+        [
+          1006,
+          1744
+        ]
+      ],
+      "resource_id": "ft-proactive-chat-greeting-message",
+      "checked": false,
+      "text": "Can I help you with something today?",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 104,
+      "temp_id": 106,
+      "size": "762*135",
+      "signature": "[class]android.widget.Button[resource_id]ft-proactive-chat-greeting-message[text]Can I help you with something today?[enabled,,]",
+      "view_str": "21284d6095522ab0044b91da640ecde3"
+    }
+  },
+  "start_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "stop_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "event_str": "TouchEvent(state=0dc66136fe5a2b420f39c5956c5dc704, view=21284d6095522ab0044b91da640ecde3(CarbonActivity/Button-Can I help))"
+}

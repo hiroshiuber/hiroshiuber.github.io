@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145655",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          838,
+          204
+        ],
+        [
+          929,
+          292
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Restart Widget",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 104,
+      "temp_id": 108,
+      "size": "91*88",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Restart Widget[enabled,,]",
+      "view_str": "0d660aad77cc7615f923b1fb80f08992"
+    }
+  },
+  "start_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "stop_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "event_str": "TouchEvent(state=0dc66136fe5a2b420f39c5956c5dc704, view=0d660aad77cc7615f923b1fb80f08992(CarbonActivity/Button-Restart Wi))"
+}

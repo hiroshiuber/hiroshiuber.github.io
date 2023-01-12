@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145448",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1221
+        ],
+        [
+          995,
+          1293
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 73,
+      "size": "69*72",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "fb9561c011849ef7e0892426acfa02f7"
+    }
+  },
+  "start_state": "63948b629c654f666abb25c995b4af75",
+  "stop_state": "fdf615c60688d17bd562493e2717c7f0",
+  "event_str": "TouchEvent(state=63948b629c654f666abb25c995b4af75, view=fb9561c011849ef7e0892426acfa02f7(CarbonActivity/Image-Chevron ri))"
+}

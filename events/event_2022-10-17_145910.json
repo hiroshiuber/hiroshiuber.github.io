@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145910",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Car front Riders",
+      "children": [
+        49,
+        50
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          121,
+          1040
+        ],
+        [
+          541,
+          1460
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 48,
+      "size": "420*420",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c9be263b1e35f7c572159d85a009ffc1"
+    }
+  },
+  "start_state": "ce6a9ac235aaff9a4d7b7a6513f8cac1",
+  "stop_state": "0ec6e65fdf51e32a6c7d9328b2b905cd",
+  "event_str": "TouchEvent(state=ce6a9ac235aaff9a4d7b7a6513f8cac1, view=c9be263b1e35f7c572159d85a009ffc1(CarbonActivity/View-))"
+}

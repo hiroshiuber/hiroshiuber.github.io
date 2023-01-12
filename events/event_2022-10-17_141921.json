@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141921",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1612
+        ],
+        [
+          1039,
+          1680
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "4 Seats. Affordable rides, all to yourself",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 100,
+      "size": "995*68",
+      "signature": "[class]android.view.View[resource_id]None[text]4 Seats. Affordable rides, all to yourself[enabled,,]",
+      "view_str": "c8cd592a2afb739a65d62e17f4bd1fe2"
+    }
+  },
+  "start_state": "db1aeb57940b34aeca8f8cca79f57cc3",
+  "stop_state": "db1aeb57940b34aeca8f8cca79f57cc3",
+  "event_str": "TouchEvent(state=db1aeb57940b34aeca8f8cca79f57cc3, view=c8cd592a2afb739a65d62e17f4bd1fe2(CarbonActivity/View-4 Seats. A))"
+}

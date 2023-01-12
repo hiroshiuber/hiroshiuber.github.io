@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144738",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1436
+        ],
+        [
+          874,
+          1529
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Learn more about driving and delivering",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 71,
+      "size": "808*93",
+      "signature": "[class]android.view.View[resource_id]None[text]Learn more about driving and delivering[enabled,,]",
+      "view_str": "a4fcc2f9908f031a51ab826765afca04"
+    }
+  },
+  "start_state": "d9285e2e3bced1a8e32a68b457fb73b3",
+  "stop_state": "d9285e2e3bced1a8e32a68b457fb73b3",
+  "event_str": "TouchEvent(state=d9285e2e3bced1a8e32a68b457fb73b3, view=a4fcc2f9908f031a51ab826765afca04(CarbonActivity/View-Learn more))"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150712",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          121,
+          748
+        ],
+        [
+          962,
+          861
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Read publications online in a browser-friendly format",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 136,
+      "temp_id": 137,
+      "size": "841*113",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]",
+      "view_str": "f6b0bf822503e91a51c293f124b72f67"
+    }
+  },
+  "start_state": "115f0ad0364d67539b7ffaabe994fa67",
+  "stop_state": "f923844f1191f657f742c0f861757303",
+  "event_str": "TouchEvent(state=115f0ad0364d67539b7ffaabe994fa67, view=f6b0bf822503e91a51c293f124b72f67(CarbonActivity/TextView-Read publi))"
+}

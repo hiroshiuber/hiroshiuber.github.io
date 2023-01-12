@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_145331",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "How do I see past orders? Chevron right small",
+      "children": [
+        70
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1174
+        ],
+        [
+          1039,
+          1301
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 69,
+      "size": "995*127",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    }
+  },
+  "start_state": "41935cf12a6a4f01e93aa564b09ec770",
+  "stop_state": "3db48826caa6b14340d3bc8582422a39",
+  "event_str": "TouchEvent(state=41935cf12a6a4f01e93aa564b09ec770, view=14e92fa1b2a1aa152baad9944b5c080a(CarbonActivity/View-))"
+}

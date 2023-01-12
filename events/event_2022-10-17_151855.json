@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_151855",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.documentsui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Search",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          794,
+          193
+        ],
+        [
+          926,
+          325
+        ]
+      ],
+      "resource_id": "com.google.android.documentsui:id/option_menu_search",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "132*132",
+      "signature": "[class]android.widget.TextView[resource_id]com.google.android.documentsui:id/option_menu_search[text]None[enabled,,]",
+      "view_str": "b1d50b935c48e896976224a1e046bb09"
+    }
+  },
+  "start_state": "2115d16444847a8c6472b91eaaa91a67",
+  "stop_state": "3357d013239e157a01b4d85ce6a332b6",
+  "event_str": "TouchEvent(state=2115d16444847a8c6472b91eaaa91a67, view=b1d50b935c48e896976224a1e046bb09(PickActivity/TextView-))"
+}

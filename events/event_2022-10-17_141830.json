@@ -1,0 +1,11 @@
+{
+  "tag": "2022-10-17_141830",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity"
+  },
+  "start_state": "4f173593ffc9c2e6166328099d07bedd",
+  "stop_state": "b58a58440fc9f9beab1b034b6f5ae741",
+  "event_str": "IntentEvent(intent='am start com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity')"
+}

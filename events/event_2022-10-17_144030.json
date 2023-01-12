@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144030",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "View more information about Electric Vehicles",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          914,
+          499
+        ],
+        [
+          1013,
+          598
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/primary_end_image_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 36,
+      "size": "99*99",
+      "signature": "[class]android.widget.Button[resource_id]com.ubercab.driver:id/primary_end_image_button[text]None[enabled,,]",
+      "view_str": "b88158174ee2a7d369b7f7f6732a6114"
+    }
+  },
+  "start_state": "9fa916fac1d709cf94a6e925e56c93a2",
+  "stop_state": "f923844f1191f657f742c0f861757303",
+  "event_str": "TouchEvent(state=9fa916fac1d709cf94a6e925e56c93a2, view=b88158174ee2a7d369b7f7f6732a6114(CarbonActivity/Button-))"
+}

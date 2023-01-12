@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_151444",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1330
+        ],
+        [
+          1036,
+          1605
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/ub__hourlimits_policy_text",
+      "checked": false,
+      "text": "Driving on the Uber App is limited to no more than 12 hours at a time. If you\u2019re offline, or stopped between trips, the time is not counted toward the 12-hour limit.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 51,
+      "size": "992*275",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/ub__hourlimits_policy_text[text]None[enabled,,]",
+      "view_str": "9aa88f938f9fe553d0a879efdf7c6679"
+    }
+  },
+  "start_state": "cc09f78666ba5672e9a35acabe59cd4d",
+  "stop_state": "cc09f78666ba5672e9a35acabe59cd4d",
+  "event_str": "TouchEvent(state=cc09f78666ba5672e9a35acabe59cd4d, view=9aa88f938f9fe553d0a879efdf7c6679(CarbonActivity/TextView-Driving on))"
+}

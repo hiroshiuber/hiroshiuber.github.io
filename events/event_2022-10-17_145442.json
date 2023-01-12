@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145442",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Scooter Bikes & Scooters",
+      "children": [
+        68,
+        69
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          121,
+          1876
+        ],
+        [
+          541,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 67,
+      "size": "420*274",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "a3af3cb5f02e214f35d87a8a05a208d9"
+    }
+  },
+  "start_state": "0ec6e65fdf51e32a6c7d9328b2b905cd",
+  "stop_state": "eac8e6c0cf6159251b7d36eb7fd92786",
+  "event_str": "TouchEvent(state=0ec6e65fdf51e32a6c7d9328b2b905cd, view=a3af3cb5f02e214f35d87a8a05a208d9(CarbonActivity/View-))"
+}

@@ -1,0 +1,52 @@
+{
+  "tag": "2022-10-17_150030",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28,
+        330
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Explore the Uber Platform | Uber United States",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Explore the Uber Platform | Uber United States[enabled,,]",
+      "view_str": "574c49f23e64fd7f6308943605fc04d9"
+    },
+    "direction": "RIGHT"
+  },
+  "start_state": "e13e949d954d094ff658126d3fe2f583",
+  "stop_state": "e13e949d954d094ff658126d3fe2f583",
+  "event_str": "ScrollEvent(state=e13e949d954d094ff658126d3fe2f583, view=574c49f23e64fd7f6308943605fc04d9(CarbonActivity/WebView-Explore th), direction=RIGHT)"
+}

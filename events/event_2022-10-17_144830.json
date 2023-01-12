@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_144830",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber | Payments",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Uber | Payments[enabled,,]",
+      "view_str": "a73cfbb70725af68043db8e27556d752"
+    },
+    "direction": "DOWN"
+  },
+  "start_state": "b2703995149b924a3b48079ed35caada",
+  "stop_state": "b2703995149b924a3b48079ed35caada",
+  "event_str": "ScrollEvent(state=b2703995149b924a3b48079ed35caada, view=a73cfbb70725af68043db8e27556d752(CarbonActivity/WebView-Uber | Pay), direction=DOWN)"
+}

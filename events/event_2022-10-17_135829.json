@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135829",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1779
+        ],
+        [
+          110,
+          1845
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/arrival_time_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "66*66",
+      "signature": "[class]android.widget.ImageView[resource_id]com.ubercab.driver:id/arrival_time_icon[text]None[enabled,,]",
+      "view_str": "8b2b00391e82e42ae7fff1badaebb41a"
+    }
+  },
+  "start_state": "d5c1899b62e1b949478a32c7fe7e5dde",
+  "stop_state": "833553e0490289f371408d4b67507d72",
+  "event_str": "TouchEvent(state=d5c1899b62e1b949478a32c7fe7e5dde, view=8b2b00391e82e42ae7fff1badaebb41a(CarbonActivity/ImageView-))"
+}

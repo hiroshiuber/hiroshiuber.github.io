@@ -1,0 +1,6486 @@
+{
+  "tag": "2022-10-17_145815",
+  "state_str": "49973e091aea54353b7802f15be89743",
+  "state_str_content_free": "c07437f569a5535ee8570849807cec57",
+  "foreground_activity": "com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity",
+  "activity_stack": [
+    "com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity"
+  ],
+  "background_services": [
+    "com.google.android.gms/.ads.identifier.service.AdvertisingIdService",
+    "com.google.android.networkstack.tethering/com.android.networkstack.tethering.TetheringService",
+    "com.google.android.ext.services/com.android.textclassifier.DefaultTextClassifierService",
+    "com.google.android.gms/.nearby.sharing.ReceiveSurfaceService",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.chrome/org.chromium.content.app.SandboxedProcessService0",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.google.android.gms/.location.geocode.GeocodeService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/com.google.location.nearby.direct.service.NearbyDirectService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.android.bluetooth/.pbap.BluetoothPbapService",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.google.android.ext.services/android.ext.services.autofill.InlineSuggestionRenderServiceImpl",
+    "com.google.android.setupwizard/.logging.ScreenOnClock",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "com.google.android.providers.media.module/com.android.providers.media.fuse.ExternalStorageServiceImpl",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nga.engine.viss.NgaService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.apps.nexuslauncher/com.android.launcher3.notification.NotificationListener",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.android.bluetooth/.hid.HidDeviceService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/.nearby.discovery.service.DiscoveryService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/.nearby.messages.service.NearbyMessagesService",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.google.android.gms/.fido.authenticator.service.AuthenticatorService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.android.systemui/.dump.SystemUIAuxiliaryDumpService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.android.stk/.StkAppService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.service.ims/.RcsService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.networkstack/com.android.server.NetworkStackService",
+    "com.android.bluetooth/.hfp.HeadsetService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.emulator.multidisplay/.MultiDisplayService",
+    "com.ubercab.driver/org.chromium.content.app.SandboxedProcessService0",
+    "com.ubercab.driver/com.ubercab.push.UberFirebaseMessagingService",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.android.ons/.OpportunisticNetworkService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.android.bluetooth/.map.BluetoothMapService",
+    "com.android.phone/com.android.services.telephony.sip.components.TelephonySipService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.android.bluetooth/.hid.HidHostService",
+    "com.android.bluetooth/.opp.BluetoothOppService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.android.bluetooth/.avrcp.AvrcpTargetService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService",
+    "com.google.android.cellbroadcastservice/com.android.cellbroadcastservice.DefaultCellBroadcastService"
+  ],
+  "width": 1080,
+  "height": 2280,
+  "views": [
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        168,
+        169
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1080*2280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "9b464f0461d05ca24476e689d1c01c8c"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "12c4717995cfe12c5286b5e8c87b90f8"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f1b684065b783831a97a92fd783cf8c0"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.ubercab.driver:id/action_bar_root[text]None[enabled,,]",
+      "view_str": "07ab0245ba0c2383ddcd03b8e0fbf124"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "1166d79f5d61689d7eca8f016f2a422a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.drawerlayout.widget.DrawerLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1080*2148",
+      "signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "11205ce37bc64c02cb911b1e0316b03a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7,
+        167
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1080*2148",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "c17753273ffc51fda267525563da9f7c"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/mobilestudio_content_container",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "1080*2148",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.ubercab.driver:id/mobilestudio_content_container[text]None[enabled,,]",
+      "view_str": "6efa795aff5f2938c6b6d5adf10850ae"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "1080*2148",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "7fc92c8c64e5fe653f10e0140abe3786"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "d7ef9cff008e362bf6e5f084b81394d5"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "32d4ee61f1370da6a6191eaa2bb42016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "1262ec1137b03764ea3e169781555796"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/active_drawer",
+      "checked": false,
+      "text": null,
+      "class": "androidx.drawerlayout.widget.DrawerLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1080*1977",
+      "signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]com.ubercab.driver:id/active_drawer[text]None[enabled,,]",
+      "view_str": "5b9ee8d4e81038090c400501685f8742"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14,
+        20
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/active_container",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.ubercab.driver:id/active_container[text]None[enabled,,]",
+      "view_str": "6885db682e7b2e1932c23c24143cfb64"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/background_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.ubercab.driver:id/background_container[text]None[enabled,,]",
+      "view_str": "eea20690acdd9f0b201d98a37d748bf4"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16,
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/rxmap",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.ubercab.driver:id/rxmap[text]None[enabled,,]",
+      "view_str": "35186b72634369ebfcd97039982c3e51"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/map",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.ubercab.driver:id/map[text]None[enabled,,]",
+      "view_str": "6e15170d725aa77ce21c3b95e89e6eda"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "29bb0be8cfa26df796cb5dc113ce9932"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 18,
+      "size": "1080*1977",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "5851953711f7b7009385eba5e2b04eda"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/annotations",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 19,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.ubercab.driver:id/annotations[text]None[enabled,,]",
+      "view_str": "63e6dac9f4360ff52a4ff89831aed0da"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 20,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "ee784dca50caca7a6348f592e6abbf09"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "11c0d45cb652c27c855e1ec2b406ee44"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/browser",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.ubercab.driver:id/browser[text]None[enabled,,]",
+      "view_str": "9c90a0614074d98038784c9209ffd615"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/webview_root_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.ubercab.driver:id/webview_root_layout[text]None[enabled,,]",
+      "view_str": "fc295aa6c23a80731cdcfbd57decb089"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/webview_frame",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.ubercab.driver:id/webview_frame[text]None[enabled,,]",
+      "view_str": "8084de70ff5e8d77ff437a098b57cb8c"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": false,
+      "content_description": null,
+      "children": [
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/swipe_refresh",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.ubercab.driver:id/swipe_refresh[text]None[,,]",
+      "view_str": "c16b867ad189c0428ef96a47650e106c"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.webkit.WebView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "1080*1977",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "f6dd12b70a5a179957214b634aa75bf7"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Account and payment options | Bikes & Scooters - Uber Help",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "57bc644ac98c1d0ef629963bf592777a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        29,
+        166
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "1083*1979",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "ea11ed939cf5d15fed4c897069898f5b"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": "root",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 29,
+      "size": "1083*1979",
+      "signature": "[class]android.view.View[resource_id]root[text][enabled,,]",
+      "view_str": "7ddd97d8f5d1eb51d551cb95b44bb177"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "1083*1979",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "0599795c86e1b518ba7f7706609fdd32"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 13,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        32,
+        33,
+        46,
+        54,
+        59,
+        60,
+        65,
+        70,
+        75,
+        80,
+        85,
+        90,
+        95
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": "wrapper",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "1083*1979",
+      "signature": "[class]android.view.View[resource_id]wrapper[text][enabled,,]",
+      "view_str": "0dde1c1b38b2f894d7462013db20099f"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          -27500,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "28583*1979",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "bc3ea5afeb3a8c59fc423d952632b0a1"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          347
+        ]
+      ],
+      "resource_id": "top-navigation",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 33,
+      "size": "1083*176",
+      "signature": "[class]android.view.View[resource_id]top-navigation[text][enabled,,]",
+      "view_str": "1066876d23fce8d8a12891282656ded2"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        35,
+        39,
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          347
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "1083*176",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "98653a064650d49bad30814294a83f82"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          204
+        ],
+        [
+          184,
+          314
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "118*110",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "b7b39ba6be4c630dce47e38bd84c2a1f"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        37
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          204
+        ],
+        [
+          184,
+          314
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 36,
+      "size": "118*110",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "71e4e3992407a589f3712763336f19db"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Go to Uber Home",
+      "children": [
+        38
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          204
+        ],
+        [
+          184,
+          314
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 37,
+      "size": "118*110",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "27b4274dfe421eb09aaa88c971f1f1b9"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          226
+        ],
+        [
+          184,
+          292
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 38,
+      "size": "118*66",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Uber[enabled,,]",
+      "view_str": "95996891a18d453a280a2c72fe1dea32"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          181,
+          204
+        ],
+        [
+          682,
+          314
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 39,
+      "size": "501*110",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "0f95e2eaf1669bc4943b9c06fc6659be"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        41,
+        43
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          717,
+          204
+        ],
+        [
+          1056,
+          314
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 40,
+      "size": "339*110",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "817af3dace86bf5115f5104664774c07"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        42
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          717,
+          206
+        ],
+        [
+          819,
+          311
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 41,
+      "size": "102*105",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "dce2eeaae743e2865bfed001dd164c14"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          717,
+          206
+        ],
+        [
+          819,
+          311
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Open",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "102*105",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Open[enabled,,]",
+      "view_str": "87211686ed55b51db2fed3b01d02c20f"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          816,
+          173
+        ],
+        [
+          1056,
+          344
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 43,
+      "size": "240*171",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d3d8217f4446b6c3f8e4001ed97da5d5"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        45
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          816,
+          173
+        ],
+        [
+          1045,
+          344
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "229*171",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "1cdbe2a3a5445ebb4fe9bd9f9e5cfb6b"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          816,
+          173
+        ],
+        [
+          1045,
+          344
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Hiroshi Mendoza",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "229*171",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Hiroshi Mendoza[enabled,,]",
+      "view_str": "ced4c1cc8669a5c99fee8cb588a37c79"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        47
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          347
+        ],
+        [
+          1083,
+          514
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 46,
+      "size": "1083*167",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "7d95fff1a79d59e9cdb4620b6eba0ea0"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        48,
+        52,
+        53
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          347
+        ],
+        [
+          1083,
+          512
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 46,
+      "temp_id": 47,
+      "size": "1083*165",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "79b57b007778aa35a2a2006ab62d1519"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        49
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          380
+        ],
+        [
+          239,
+          479
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 48,
+      "size": "195*99",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "896d04b0da7a06bd7b6e4be98f9f6787"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        50
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          380
+        ],
+        [
+          239,
+          479
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "195*99",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "efd5b8c7f45d58511daa5a835c43f5b0"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Help",
+      "children": [
+        51
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          388
+        ],
+        [
+          181,
+          470
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 49,
+      "temp_id": 50,
+      "size": "137*82",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "43f45aedf9aeb654d100f2693e528ae1"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          388
+        ],
+        [
+          181,
+          470
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Help",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 50,
+      "temp_id": 51,
+      "size": "137*82",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Help[enabled,,]",
+      "view_str": "5cd5c65de5664e2893fb4b5b8efc7534"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          302,
+          380
+        ],
+        [
+          781,
+          479
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Bikes & Scooters",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 52,
+      "size": "479*99",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Bikes & Scooters[enabled,,]",
+      "view_str": "53eec431d135ea8140713ffd8dca2fb7"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          778,
+          380
+        ],
+        [
+          1039,
+          479
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 53,
+      "size": "261*99",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "52c2a0687c014a7512c0f8f7034f0b4a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        55
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          572
+        ],
+        [
+          162,
+          630
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Breadcrumbs navigation",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 54,
+      "size": "118*58",
+      "signature": "[class]android.view.View[resource_id]None[text]Breadcrumbs navigation[enabled,,]",
+      "view_str": "db5996cc09946aa3469798c3774e3790"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        56
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          572
+        ],
+        [
+          162,
+          630
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 55,
+      "size": "118*58",
+      "signature": "[class]android.widget.ListView[resource_id]None[text][enabled,,]",
+      "view_str": "6c6c1cd778520182a34752714c861992"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        57
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          572
+        ],
+        [
+          162,
+          630
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 55,
+      "temp_id": 56,
+      "size": "118*58",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "005c83e448785245efdf85b8cf64e627"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Home",
+      "children": [
+        58
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          572
+        ],
+        [
+          162,
+          630
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 57,
+      "size": "118*58",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c4ae394e767d4fd5455e25ed749df424"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          572
+        ],
+        [
+          162,
+          630
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Home",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 58,
+      "size": "118*58",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Home[enabled,,]",
+      "view_str": "6e06bc020654c5e5a6e0a78d64de0346"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          776
+        ],
+        [
+          1039,
+          1064
+        ]
+      ],
+      "resource_id": "node-title",
+      "checked": false,
+      "text": "Account and payment options",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 59,
+      "size": "995*288",
+      "signature": "[class]android.view.View[resource_id]node-title[text]Account and payment options[enabled,,]",
+      "view_str": "f71224d3831ffaf71ca1022bae043782"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Using Uber promotions Chevron right small",
+      "children": [
+        61
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1106
+        ],
+        [
+          1039,
+          1232
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 60,
+      "size": "995*126",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        62,
+        64
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1106
+        ],
+        [
+          1039,
+          1232
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 60,
+      "temp_id": 61,
+      "size": "995*126",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d7621856b2161998dcd0829bf710a016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        63
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1139
+        ],
+        [
+          495,
+          1196
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 62,
+      "size": "451*57",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d07b1b9648bd54d65f8df2b1641db61d"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1139
+        ],
+        [
+          495,
+          1196
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Using Uber promotions",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 62,
+      "temp_id": 63,
+      "size": "451*57",
+      "signature": "[class]android.view.View[resource_id]None[text]Using Uber promotions[enabled,,]",
+      "view_str": "5d8dd7bcdeb7d1540ea70ef14ddc4dde"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1133
+        ],
+        [
+          995,
+          1202
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 64,
+      "size": "69*69",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "871ebfff103edb1fc0a5ae111a3a22b3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "I think someone hacked my account Chevron right small",
+      "children": [
+        66
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1229
+        ],
+        [
+          1039,
+          1356
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 65,
+      "size": "995*127",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        67,
+        69
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1229
+        ],
+        [
+          1039,
+          1356
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 66,
+      "size": "995*127",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d7621856b2161998dcd0829bf710a016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1262
+        ],
+        [
+          737,
+          1320
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 66,
+      "temp_id": 67,
+      "size": "693*58",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "69711a451151a75c5379eab2b705b8c3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1262
+        ],
+        [
+          737,
+          1320
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "I think someone hacked my account",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 67,
+      "temp_id": 68,
+      "size": "693*58",
+      "signature": "[class]android.view.View[resource_id]None[text]I think someone hacked my account[enabled,,]",
+      "view_str": "b22c244b32e0ab4d74419fb7267ecbda"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1257
+        ],
+        [
+          995,
+          1326
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 66,
+      "temp_id": 69,
+      "size": "69*69",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "871ebfff103edb1fc0a5ae111a3a22b3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "JUMP \u098f\u09ac\u0982 Lime \u099f\u09cd\u09b0\u09bf\u09aa\u09c7\u09b0 \u099c\u09a8\u09cd\u09af Uber-\u098f \u0995\u09cb\u09a8 \u0995\u09cb\u09a8 \u09aa\u09a6\u09cd\u09a7\u09a4\u09bf\u09a4\u09c7 \u09aa\u09c7\u09ae\u09c7\u09a8\u09cd\u099f \u0995\u09b0\u09be \u09af\u09be\u09ac\u09c7? Chevron right small",
+      "children": [
+        71
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1353
+        ],
+        [
+          1039,
+          1535
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 70,
+      "size": "995*182",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        72,
+        74
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1353
+        ],
+        [
+          1039,
+          1535
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 71,
+      "size": "995*182",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d7621856b2161998dcd0829bf710a016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        73
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1386
+        ],
+        [
+          929,
+          1499
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 71,
+      "temp_id": 72,
+      "size": "885*113",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "316c49c962668185bbd672e7bb0646ce"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1386
+        ],
+        [
+          929,
+          1499
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "JUMP \u098f\u09ac\u0982 Lime \u099f\u09cd\u09b0\u09bf\u09aa\u09c7\u09b0 \u099c\u09a8\u09cd\u09af Uber-\u098f \u0995\u09cb\u09a8 \u0995\u09cb\u09a8 \u09aa\u09a6\u09cd\u09a7\u09a4\u09bf\u09a4\u09c7 \u09aa\u09c7\u09ae\u09c7\u09a8\u09cd\u099f \u0995\u09b0\u09be \u09af\u09be\u09ac\u09c7?",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 72,
+      "temp_id": 73,
+      "size": "885*113",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "7b73f32a50ced8aad8c42b72d299c353"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1408
+        ],
+        [
+          995,
+          1477
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 71,
+      "temp_id": 74,
+      "size": "69*69",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "871ebfff103edb1fc0a5ae111a3a22b3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u0986\u09ae\u09bf \u09b8\u09be\u0987\u09a8 \u0987\u09a8 \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u099b\u09bf \u09a8\u09be Chevron right small",
+      "children": [
+        76
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1532
+        ],
+        [
+          1039,
+          1658
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 75,
+      "size": "995*126",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        77,
+        79
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1532
+        ],
+        [
+          1039,
+          1658
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 75,
+      "temp_id": 76,
+      "size": "995*126",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d7621856b2161998dcd0829bf710a016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        78
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1565
+        ],
+        [
+          588,
+          1623
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 76,
+      "temp_id": 77,
+      "size": "544*58",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "02aa81986de143e92bad4e037c39e738"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1565
+        ],
+        [
+          588,
+          1623
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u0986\u09ae\u09bf \u09b8\u09be\u0987\u09a8 \u0987\u09a8 \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u099b\u09bf \u09a8\u09be",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 78,
+      "size": "544*58",
+      "signature": "[class]android.view.View[resource_id]None[text]\u0986\u09ae\u09bf \u09b8\u09be\u0987\u09a8 \u0987\u09a8 \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u099b\u09bf \u09a8\u09be[enabled,,]",
+      "view_str": "ce1d2ee4301dbd35bb40bc64eaa26cc7"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1559
+        ],
+        [
+          995,
+          1628
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 76,
+      "temp_id": 79,
+      "size": "69*69",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "871ebfff103edb1fc0a5ae111a3a22b3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "How do I view my receipt? Chevron right small",
+      "children": [
+        81
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1656
+        ],
+        [
+          1039,
+          1782
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 80,
+      "size": "995*126",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        82,
+        84
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1656
+        ],
+        [
+          1039,
+          1782
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 80,
+      "temp_id": 81,
+      "size": "995*126",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d7621856b2161998dcd0829bf710a016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        83
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1689
+        ],
+        [
+          547,
+          1746
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 81,
+      "temp_id": 82,
+      "size": "503*57",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "efc9c93c2a3c0b178811e8bda4be1912"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1689
+        ],
+        [
+          547,
+          1746
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "How do I view my receipt?",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 82,
+      "temp_id": 83,
+      "size": "503*57",
+      "signature": "[class]android.view.View[resource_id]None[text]How do I view my receipt?[enabled,,]",
+      "view_str": "db618b3ecb38af14c3cb47194e1960b6"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1683
+        ],
+        [
+          995,
+          1752
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 81,
+      "temp_id": 84,
+      "size": "69*69",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "871ebfff103edb1fc0a5ae111a3a22b3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "\u0986\u09ae\u09be\u0995\u09c7 \u098f\u0995\u099f\u09bf JUMP \u09ac\u09be Lime \u099f\u09cd\u09b0\u09bf\u09aa\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0985\u09a4\u09bf\u09b0\u09bf\u0995\u09cd\u09a4 \u099a\u09be\u09b0\u09cd\u099c \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7 Chevron right small",
+      "children": [
+        86
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1779
+        ],
+        [
+          1039,
+          1961
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 85,
+      "size": "995*182",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        87,
+        89
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1779
+        ],
+        [
+          1039,
+          1961
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 86,
+      "size": "995*182",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d7621856b2161998dcd0829bf710a016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        88
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1812
+        ],
+        [
+          929,
+          1925
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 86,
+      "temp_id": 87,
+      "size": "885*113",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "316c49c962668185bbd672e7bb0646ce"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1812
+        ],
+        [
+          929,
+          1925
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u0986\u09ae\u09be\u0995\u09c7 \u098f\u0995\u099f\u09bf JUMP \u09ac\u09be Lime \u099f\u09cd\u09b0\u09bf\u09aa\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0985\u09a4\u09bf\u09b0\u09bf\u0995\u09cd\u09a4 \u099a\u09be\u09b0\u09cd\u099c \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 87,
+      "temp_id": 88,
+      "size": "885*113",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "7b73f32a50ced8aad8c42b72d299c353"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1834
+        ],
+        [
+          995,
+          1903
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 86,
+      "temp_id": 89,
+      "size": "69*69",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "871ebfff103edb1fc0a5ae111a3a22b3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Subscriptions Chevron right small",
+      "children": [
+        91
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1958
+        ],
+        [
+          1039,
+          2085
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 90,
+      "size": "995*127",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "14e92fa1b2a1aa152baad9944b5c080a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        92,
+        94
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1958
+        ],
+        [
+          1039,
+          2085
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 91,
+      "size": "995*127",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "d7621856b2161998dcd0829bf710a016"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        93
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1991
+        ],
+        [
+          310,
+          2049
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 92,
+      "size": "266*58",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "33e3df8e1e1031e1942dfceed781ea60"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1991
+        ],
+        [
+          310,
+          2049
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Subscriptions",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 92,
+      "temp_id": 93,
+      "size": "266*58",
+      "signature": "[class]android.view.View[resource_id]None[text]Subscriptions[enabled,,]",
+      "view_str": "06961cabeeb941cbcd805373c4ea7118"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          926,
+          1986
+        ],
+        [
+          995,
+          2054
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chevron right small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 94,
+      "size": "69*68",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Chevron right small[enabled,,]",
+      "view_str": "871ebfff103edb1fc0a5ae111a3a22b3"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        96
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2192
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 95,
+      "size": "1083*-42",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "7d95fff1a79d59e9cdb4620b6eba0ea0"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        97
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          688
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 96,
+      "size": "1083*1462",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "ad4505da9bd23e4b0fd3fbe01a8d3a96"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 30,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        98,
+        100,
+        103,
+        104,
+        105,
+        107,
+        109,
+        111,
+        113,
+        115,
+        116,
+        118,
+        120,
+        122,
+        124,
+        126,
+        127,
+        129,
+        131,
+        133,
+        134,
+        136,
+        138,
+        154,
+        157,
+        158,
+        159,
+        160,
+        162,
+        164
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          688
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 96,
+      "temp_id": 97,
+      "size": "1083*1462",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "81f232e57e1c0b30a49b6c760a466218"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Uber",
+      "children": [
+        99
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          798
+        ],
+        [
+          1017,
+          1108
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 98,
+      "size": "951*310",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "8ba0eae510e819f2a467badb0a88907c"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          919
+        ],
+        [
+          184,
+          985
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 99,
+      "size": "118*66",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Uber[enabled,,]",
+      "view_str": "902ee28d10b98a871ae4ceb6957daffa"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        101
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1106
+        ],
+        [
+          1017,
+          1161
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 100,
+      "size": "951*55",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "971278a596ac2e0e76d8cf18e70c2ad1"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        102
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1658
+        ],
+        [
+          66,
+          1667
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 100,
+      "temp_id": 101,
+      "size": "0*9",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "c37c2503235fcc73985b0ab47c7bc1de"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1141
+        ],
+        [
+          66,
+          1150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 101,
+      "temp_id": 102,
+      "size": "0*9",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "c8cb02c138bb2daca70fe64e1d107e99"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1257
+        ],
+        [
+          1017,
+          1257
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 103,
+      "size": "951*0",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "74c096e9643cf6276ffecb82c63c6120"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1356
+        ],
+        [
+          286,
+          1425
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Company",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 104,
+      "size": "220*69",
+      "signature": "[class]android.view.View[resource_id]None[text]Company[enabled,,]",
+      "view_str": "8030e9f82c21e1d5547f79e4d7c32085"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "About us",
+      "children": [
+        106
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1477
+        ],
+        [
+          217,
+          1535
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 105,
+      "size": "151*58",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "943c05bd3c95e4f71e89b3bb344116fe"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1477
+        ],
+        [
+          217,
+          1535
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "About us",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 105,
+      "temp_id": 106,
+      "size": "151*58",
+      "signature": "[class]android.view.View[resource_id]None[text]About us[enabled,,]",
+      "view_str": "86c55cab9b336cb0083b4531baf4a935"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Newsroom",
+      "children": [
+        108
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1576
+        ],
+        [
+          247,
+          1634
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 107,
+      "size": "181*58",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "dfc3c7058aa0f08a75c5bb4bfc6d02c2"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1576
+        ],
+        [
+          247,
+          1634
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Newsroom",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 108,
+      "size": "181*58",
+      "signature": "[class]android.view.View[resource_id]None[text]Newsroom[enabled,,]",
+      "view_str": "fdffb7d5518e8f7adc7ffb1e7c9135de"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Investors",
+      "children": [
+        110
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1675
+        ],
+        [
+          211,
+          1733
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 109,
+      "size": "145*58",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "a02ebbc6a785b58f8b3a73bb642f9942"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1675
+        ],
+        [
+          211,
+          1733
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Investors",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 109,
+      "temp_id": 110,
+      "size": "145*58",
+      "signature": "[class]android.view.View[resource_id]None[text]Investors[enabled,,]",
+      "view_str": "bbe3bae77c4495e798f2f75e85933464"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Blog",
+      "children": [
+        112
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1774
+        ],
+        [
+          143,
+          1832
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 111,
+      "size": "77*58",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "77890b01d53d04a3cb5ad908e53641fe"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1774
+        ],
+        [
+          143,
+          1832
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Blog",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 111,
+      "temp_id": 112,
+      "size": "77*58",
+      "signature": "[class]android.view.View[resource_id]None[text]Blog[enabled,,]",
+      "view_str": "edaea075ae5494843c87bd9beebbdb84"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Careers",
+      "children": [
+        114
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1873
+        ],
+        [
+          198,
+          1931
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 113,
+      "size": "132*58",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "c72b85e6c0a21bd49c1c5e0b4810137f"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1873
+        ],
+        [
+          198,
+          1931
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Careers",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 113,
+      "temp_id": 114,
+      "size": "132*58",
+      "signature": "[class]android.view.View[resource_id]None[text]Careers[enabled,,]",
+      "view_str": "b2986ab7fd1992133d277a1b920125cb"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2071
+        ],
+        [
+          264,
+          2140
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Products",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 115,
+      "size": "198*69",
+      "signature": "[class]android.view.View[resource_id]None[text]Products[enabled,,]",
+      "view_str": "7cdc9c41ad352bd5ff97c5182672f0be"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Trip",
+      "children": [
+        117
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2192
+        ],
+        [
+          129,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 116,
+      "size": "63*-42",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "f28555e7762cb504fdb16639cc53250e"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2192
+        ],
+        [
+          129,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Trip",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 116,
+      "temp_id": 117,
+      "size": "63*-42",
+      "signature": "[class]android.view.View[resource_id]None[text]Trip[enabled,,]",
+      "view_str": "8a50d6cf0cb0ac83b0f18219a6002f45"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Drive",
+      "children": [
+        119
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2291
+        ],
+        [
+          151,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 118,
+      "size": "85*-141",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "94c5534d9ca6ae48165180738a44a667"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2291
+        ],
+        [
+          151,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Drive",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 118,
+      "temp_id": 119,
+      "size": "85*-141",
+      "signature": "[class]android.view.View[resource_id]None[text]Drive[enabled,,]",
+      "view_str": "d34dfc972cae7eb02369d2af2e0ed89d"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Eat",
+      "children": [
+        121
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2390
+        ],
+        [
+          118,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 120,
+      "size": "52*-240",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "94517ad746e7970f6d337500ca791d07"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2390
+        ],
+        [
+          118,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Eat",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 120,
+      "temp_id": 121,
+      "size": "52*-240",
+      "signature": "[class]android.view.View[resource_id]None[text]Eat[enabled,,]",
+      "view_str": "a8cdb59534f5b8ce8875e449707b1f6a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Uber for Business",
+      "children": [
+        123
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2489
+        ],
+        [
+          349,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 122,
+      "size": "283*-339",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "e4fdd5fecbe6f8008d1ffb03fc89ce4c"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2489
+        ],
+        [
+          349,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber for Business",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 123,
+      "size": "283*-339",
+      "signature": "[class]android.view.View[resource_id]None[text]Uber for Business[enabled,,]",
+      "view_str": "19c29e8671a7026002e033e5b44b5772"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Uber Freight",
+      "children": [
+        125
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2588
+        ],
+        [
+          269,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 124,
+      "size": "203*-438",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "03c9a2135f36e61be80ec114e2e9acc4"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2588
+        ],
+        [
+          269,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber Freight",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 124,
+      "temp_id": 125,
+      "size": "203*-438",
+      "signature": "[class]android.view.View[resource_id]None[text]Uber Freight[enabled,,]",
+      "view_str": "a7c92f50597379330035cf6e46b5ed64"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2786
+        ],
+        [
+          462,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Global Citizenship",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 126,
+      "size": "396*-636",
+      "signature": "[class]android.view.View[resource_id]None[text]Global Citizenship[enabled,,]",
+      "view_str": "706589868c52cedabad12732d407d4c6"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Safety",
+      "children": [
+        128
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2907
+        ],
+        [
+          170,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 127,
+      "size": "104*-757",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "ffc71b38a17354742307a55b54318d5c"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          2907
+        ],
+        [
+          170,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Safety",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 127,
+      "temp_id": 128,
+      "size": "104*-757",
+      "signature": "[class]android.view.View[resource_id]None[text]Safety[enabled,,]",
+      "view_str": "b99212ee26396d64231f30fb61104994"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Diversity",
+      "children": [
+        130
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3006
+        ],
+        [
+          206,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 129,
+      "size": "140*-856",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "2763774467a62a87bc8dc2adc119c8c2"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3006
+        ],
+        [
+          206,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Diversity",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 129,
+      "temp_id": 130,
+      "size": "140*-856",
+      "signature": "[class]android.view.View[resource_id]None[text]Diversity[enabled,,]",
+      "view_str": "b298a63c0b50153d924fe396aca9548f"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Transparency",
+      "children": [
+        132
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3105
+        ],
+        [
+          286,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 131,
+      "size": "220*-955",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "6309dfde002491d820f1ef6eefe7592d"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3105
+        ],
+        [
+          286,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Transparency",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 131,
+      "temp_id": 132,
+      "size": "220*-955",
+      "signature": "[class]android.view.View[resource_id]None[text]Transparency[enabled,,]",
+      "view_str": "de96a629b6f44645c26cf3f7990c6a11"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3303
+        ],
+        [
+          294,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Innovation",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 133,
+      "size": "228*-1153",
+      "signature": "[class]android.view.View[resource_id]None[text]Innovation[enabled,,]",
+      "view_str": "3b41ae913ac2c5dde77ad6236eded079"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "AI",
+      "children": [
+        135
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3424
+        ],
+        [
+          99,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 134,
+      "size": "33*-1274",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "1aa03d72c2ee0566fbd5fad0b4147c8b"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3424
+        ],
+        [
+          99,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "AI",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 134,
+      "temp_id": 135,
+      "size": "33*-1274",
+      "signature": "[class]android.view.View[resource_id]None[text]AI[enabled,,]",
+      "view_str": "c70597aa03008d9781249fad98436263"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Elevate",
+      "children": [
+        137
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3523
+        ],
+        [
+          184,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 136,
+      "size": "118*-1373",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "473b57922e105be7824baea1cb8fbe2d"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          3523
+        ],
+        [
+          184,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Elevate",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 136,
+      "temp_id": 137,
+      "size": "118*-1373",
+      "signature": "[class]android.view.View[resource_id]None[text]Elevate[enabled,,]",
+      "view_str": "b6a2514dd2cbb5b62282e945fefcd6fb"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        139,
+        142,
+        145,
+        148,
+        151
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          3721
+        ],
+        [
+          734,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 138,
+      "size": "701*-1571",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "9efca70d92fa40e639c7850a8cff3e2d"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        140
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          3754
+        ],
+        [
+          176,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 138,
+      "temp_id": 139,
+      "size": "143*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "c5519e18a4495bfd62305033bb441250"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "facebook",
+      "children": [
+        141
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          3754
+        ],
+        [
+          165,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 139,
+      "temp_id": 140,
+      "size": "132*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "2118201b3c534aad16739c5d51275227"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          77,
+          3798
+        ],
+        [
+          121,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "facebook",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 140,
+      "temp_id": 141,
+      "size": "44*-1648",
+      "signature": "[class]android.widget.Image[resource_id]None[text]facebook[enabled,,]",
+      "view_str": "ad56b746b2c7db6ce374ae0e3555ff27"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        143
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          3754
+        ],
+        [
+          316,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 138,
+      "temp_id": 142,
+      "size": "146*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "c5519e18a4495bfd62305033bb441250"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "twitter",
+      "children": [
+        144
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          3754
+        ],
+        [
+          308,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 142,
+      "temp_id": 143,
+      "size": "138*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "64234717dd3d188cfd2fc98649d08298"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          214,
+          3798
+        ],
+        [
+          264,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "twitter",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 143,
+      "temp_id": 144,
+      "size": "50*-1648",
+      "signature": "[class]android.widget.Image[resource_id]None[text]twitter[enabled,,]",
+      "view_str": "6bfc360f390e9c6a15c58c5d00f1e43e"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        146
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          310,
+          3754
+        ],
+        [
+          456,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 138,
+      "temp_id": 145,
+      "size": "146*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "c5519e18a4495bfd62305033bb441250"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "youtube",
+      "children": [
+        147
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          310,
+          3754
+        ],
+        [
+          448,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 145,
+      "temp_id": 146,
+      "size": "138*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "2e1f70fed24f30e6eba8611271cdf2fb"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          354,
+          3798
+        ],
+        [
+          404,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "youtube",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 146,
+      "temp_id": 147,
+      "size": "50*-1648",
+      "signature": "[class]android.widget.Image[resource_id]None[text]youtube[enabled,,]",
+      "view_str": "5b3b0e072e4c1435a9bd285931864637"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        149
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          451,
+          3754
+        ],
+        [
+          594,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 138,
+      "temp_id": 148,
+      "size": "143*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "c5519e18a4495bfd62305033bb441250"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "linkedin",
+      "children": [
+        150
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          451,
+          3754
+        ],
+        [
+          588,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 148,
+      "temp_id": 149,
+      "size": "137*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "19ab031a3e6a492d0da97360c07af67a"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          495,
+          3798
+        ],
+        [
+          544,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "linkedin",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 149,
+      "temp_id": 150,
+      "size": "49*-1648",
+      "signature": "[class]android.widget.Image[resource_id]None[text]linkedin[enabled,,]",
+      "view_str": "59602e10534d0c57236aef7c9ab33fbe"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        152
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          591,
+          3754
+        ],
+        [
+          734,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 138,
+      "temp_id": 151,
+      "size": "143*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "c5519e18a4495bfd62305033bb441250"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "instagram",
+      "children": [
+        153
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          591,
+          3754
+        ],
+        [
+          726,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 151,
+      "temp_id": 152,
+      "size": "135*-1604",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "629677dbca0bbf6c3b6e7e2d6f02f818"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          635,
+          3798
+        ],
+        [
+          682,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "instagram",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 152,
+      "temp_id": 153,
+      "size": "47*-1648",
+      "signature": "[class]android.widget.Image[resource_id]None[text]instagram[enabled,,]",
+      "view_str": "f0871f1a07a036943c2fd124184230ab"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        155,
+        156
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          4018
+        ],
+        [
+          984,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 154,
+      "size": "951*-1868",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "3a4067b53abc26feddcda8afc8a9fe6b"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          5522
+        ],
+        [
+          294,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Globe BN-BD",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 154,
+      "temp_id": 155,
+      "size": "261*-3372",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Globe BN-BD[enabled,,]",
+      "view_str": "45753e2bc15a764a89d14959a9db3cd9"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          33,
+          5621
+        ],
+        [
+          409,
+          2150
+        ]
+      ],
+      "resource_id": "location-banner-button",
+      "checked": false,
+      "text": "[object Object]: San Francisco",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 154,
+      "temp_id": 156,
+      "size": "376*-3471",
+      "signature": "[class]android.widget.Button[resource_id]location-banner-button[text][object Object]: San Francisco[enabled,,]",
+      "view_str": "ae908fc776f77bd5cfbd0aa59a6b88ec"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "details?id=com",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          4320
+        ],
+        [
+          401,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 157,
+      "size": "335*-2170",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "ce3a5b81d133b15d7d307862cc01d74d"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "id368677368",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          431,
+          4315
+        ],
+        [
+          767,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 158,
+      "size": "336*-2165",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "ce3a5b81d133b15d7d307862cc01d74d"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          4568
+        ],
+        [
+          734,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u00a9 2022\u00a0Uber Technologies Inc.",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 159,
+      "size": "668*-2418",
+      "signature": "[class]android.view.View[resource_id]None[text]\u00a9 2022\u00a0Uber Technologies Inc.[enabled,,]",
+      "view_str": "fcb18e0bcb7bf66cd4b9bdbe60fda577"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Privacy",
+      "children": [
+        161
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          4854
+        ],
+        [
+          269,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 160,
+      "size": "203*-2704",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "f39de76b7b44bc67ae3c46cd5074475e"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          4854
+        ],
+        [
+          165,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Privacy",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 160,
+      "temp_id": 161,
+      "size": "99*-2704",
+      "signature": "[class]android.view.View[resource_id]None[text]Privacy[enabled,,]",
+      "view_str": "a85c84531efc44d7be0645e903eba7c8"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Accessibility",
+      "children": [
+        163
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          266,
+          4854
+        ],
+        [
+          544,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 162,
+      "size": "278*-2704",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "cc6b0e6fbd61c4ef5d4224ea6815f220"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          266,
+          4854
+        ],
+        [
+          440,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Accessibility",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 162,
+      "temp_id": 163,
+      "size": "174*-2704",
+      "signature": "[class]android.view.View[resource_id]None[text]Accessibility[enabled,,]",
+      "view_str": "bea8c8e2593bffb0c3fd9e1fce2f8d89"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Terms",
+      "children": [
+        165
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          541,
+          4854
+        ],
+        [
+          734,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 97,
+      "temp_id": 164,
+      "size": "193*-2704",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "168c5109b4524324eb08763926ffbf3b"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          541,
+          4854
+        ],
+        [
+          629,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Terms",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 164,
+      "temp_id": 165,
+      "size": "88*-2704",
+      "signature": "[class]android.view.View[resource_id]None[text]Terms[enabled,,]",
+      "view_str": "5432c4a9d4eefcb289dc6fca0e890167"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          193
+        ],
+        [
+          1039,
+          193
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 166,
+      "size": "995*0",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "925364092c46a786353077db2fa01e74"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/mobilestudio_content_overlay_container",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 167,
+      "size": "1080*1977",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.ubercab.driver:id/mobilestudio_content_overlay_container[text]None[enabled,,]",
+      "view_str": "e7b4f2386734768203802232ec3a040e"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1080,
+          171
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 168,
+      "size": "1080*171",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "f2ea034a928297287b80b2b8e854577f"
+    },
+    {
+      "package": "com.ubercab.driver",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2148
+        ],
+        [
+          1080,
+          2280
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 169,
+      "size": "1080*132",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "view_str": "a3025b95db8e9c4e5a54feab9dcd909d"
+    }
+  ]
+}

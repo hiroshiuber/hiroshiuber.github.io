@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150216",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          1763
+        ],
+        [
+          638,
+          1821
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Crop insurance proceeds.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 113,
+      "temp_id": 115,
+      "size": "468*58",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Crop insurance proceeds.[enabled,,]",
+      "view_str": "b4cb2845409f64eacff9efcd7b8052bf"
+    }
+  },
+  "start_state": "6c6b9f763c517935913a25986982d9f9",
+  "stop_state": "6c6b9f763c517935913a25986982d9f9",
+  "event_str": "TouchEvent(state=6c6b9f763c517935913a25986982d9f9, view=b4cb2845409f64eacff9efcd7b8052bf(CarbonActivity/TextView-Crop insur))"
+}

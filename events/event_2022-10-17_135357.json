@@ -1,0 +1,52 @@
+{
+  "tag": "2022-10-17_135357",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.apps.nexuslauncher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Search",
+      "children": [
+        23,
+        24,
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          52,
+          1952
+        ],
+        [
+          1028,
+          2106
+        ]
+      ],
+      "resource_id": "com.google.android.apps.nexuslauncher:id/search_container_all_apps",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "976*154",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.google.android.apps.nexuslauncher:id/search_container_all_apps[text]None[enabled,,]",
+      "view_str": "9fd4260ad867af820669e45eb91dca5a"
+    }
+  },
+  "start_state": "4b984ceaf211b9c860cbdbb24c88ee7b",
+  "stop_state": "1affda5a3095ecc3e309c7509c15fb81",
+  "event_str": "TouchEvent(state=4b984ceaf211b9c860cbdbb24c88ee7b, view=9fd4260ad867af820669e45eb91dca5a(CarbonActivity/FrameLayout-))"
+}

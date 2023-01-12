@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144924",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          913
+        ],
+        [
+          1039,
+          960
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Federal tax classification",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 112,
+      "temp_id": 115,
+      "size": "995*47",
+      "signature": "[class]android.view.View[resource_id]None[text]Federal tax classification[enabled,,]",
+      "view_str": "0fddd3f757ce29c710347fa9bce055c5"
+    }
+  },
+  "start_state": "77e92223bccd82f6f659d819c27fe146",
+  "stop_state": "77e92223bccd82f6f659d819c27fe146",
+  "event_str": "TouchEvent(state=77e92223bccd82f6f659d819c27fe146, view=0fddd3f757ce29c710347fa9bce055c5(CarbonActivity/View-Federal ta))"
+}

@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145436",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber Help",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Uber Help[enabled,,]",
+      "view_str": "d8b9b8c2b42d79c1f341d113013fe4d2"
+    },
+    "direction": "LEFT"
+  },
+  "start_state": "0ec6e65fdf51e32a6c7d9328b2b905cd",
+  "stop_state": "0ec6e65fdf51e32a6c7d9328b2b905cd",
+  "event_str": "ScrollEvent(state=0ec6e65fdf51e32a6c7d9328b2b905cd, view=d8b9b8c2b42d79c1f341d113013fe4d2(CarbonActivity/WebView-Uber Help), direction=LEFT)"
+}

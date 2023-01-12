@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135812",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          556,
+          1950
+        ],
+        [
+          1036,
+          2104
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/destination_time_picker_confirm",
+      "checked": false,
+      "text": "OK",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 72,
+      "temp_id": 74,
+      "size": "480*154",
+      "signature": "[class]android.widget.Button[resource_id]com.ubercab.driver:id/destination_time_picker_confirm[text]OK[enabled,,]",
+      "view_str": "ea060105d612d86a933ba7d05dc65990"
+    }
+  },
+  "start_state": "833553e0490289f371408d4b67507d72",
+  "stop_state": "8aa27f9c3617e2f6b931956ed5f72625",
+  "event_str": "TouchEvent(state=833553e0490289f371408d4b67507d72, view=ea060105d612d86a933ba7d05dc65990(CarbonActivity/Button-OK))"
+}

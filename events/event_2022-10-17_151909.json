@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_151909",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.documentsui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2280
+        ]
+      ],
+      "resource_id": "com.google.android.documentsui:id/container_search_fragment",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 46,
+      "size": "1080*2109",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.google.android.documentsui:id/container_search_fragment[text]None[enabled,,]",
+      "view_str": "402b63c4a8eced866c0d2361afe27eb1"
+    }
+  },
+  "start_state": "2f6ca67f104c87be3c133560b5e6961d",
+  "stop_state": "2f6ca67f104c87be3c133560b5e6961d",
+  "event_str": "TouchEvent(state=2f6ca67f104c87be3c133560b5e6961d, view=402b63c4a8eced866c0d2361afe27eb1(PickActivity/FrameLayout-))"
+}

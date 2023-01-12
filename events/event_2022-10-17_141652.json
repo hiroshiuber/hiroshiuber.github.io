@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141652",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1840
+        ],
+        [
+          1039,
+          1975
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Confirm Destination",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 91,
+      "size": "995*135",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Confirm Destination[enabled,,]",
+      "view_str": "66f1b5f8819be87cf9b6788098a93a74"
+    }
+  },
+  "start_state": "46d62290439b39200fa32ec94bbcf0ff",
+  "stop_state": "9e05074cac69902c97ca550b88cf2316",
+  "event_str": "TouchEvent(state=46d62290439b39200fa32ec94bbcf0ff, view=66f1b5f8819be87cf9b6788098a93a74(CarbonActivity/Button-Confirm De))"
+}

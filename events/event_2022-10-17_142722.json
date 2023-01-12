@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142722",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          899,
+          1103
+        ],
+        [
+          1067,
+          1139
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Terms of Use",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 86,
+      "size": "168*36",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Terms of Use[enabled,,]",
+      "view_str": "c3eb41b83072c1a847cf3aa2a3f68cdc"
+    }
+  },
+  "start_state": "273b622cd1ed59888fa588c5e481999e",
+  "stop_state": "273b622cd1ed59888fa588c5e481999e",
+  "event_str": "TouchEvent(state=273b622cd1ed59888fa588c5e481999e, view=c3eb41b83072c1a847cf3aa2a3f68cdc(CarbonActivity/TextView-Terms of U))"
+}

@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_141219",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          347
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Legal | Uber",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "1083*1803",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Legal | Uber[enabled,,]",
+      "view_str": "b0a8d505d3016468236e32b06f3fb403"
+    },
+    "direction": "RIGHT"
+  },
+  "start_state": "051c368f0043ca224031278a8df6984e",
+  "stop_state": "2f5a3041cffaccf75694a37b46c2df52",
+  "event_str": "ScrollEvent(state=051c368f0043ca224031278a8df6984e, view=b0a8d505d3016468236e32b06f3fb403(CarbonActivity/WebView-Legal | Ub), direction=RIGHT)"
+}

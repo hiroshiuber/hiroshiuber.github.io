@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144952",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          88,
+          1298
+        ],
+        [
+          995,
+          1378
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Have questions about your taxes?",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 112,
+      "size": "907*80",
+      "signature": "[class]android.view.View[resource_id]None[text]Have questions about your taxes?[enabled,,]",
+      "view_str": "b445e2c4a89952c3aa9e1856be29d8b2"
+    }
+  },
+  "start_state": "50566914f5b23e67bdc071d96e9fec79",
+  "stop_state": "50566914f5b23e67bdc071d96e9fec79",
+  "event_str": "TouchEvent(state=50566914f5b23e67bdc071d96e9fec79, view=b445e2c4a89952c3aa9e1856be29d8b2(CarbonActivity/View-Have quest))"
+}

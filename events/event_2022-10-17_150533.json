@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150533",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1023,
+          226
+        ],
+        [
+          1028,
+          234
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "TOGGLE MENU",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 55,
+      "temp_id": 57,
+      "size": "5*8",
+      "signature": "[class]android.view.View[resource_id]None[text]TOGGLE MENU[enabled,,]",
+      "view_str": "53016295700d06cc9059b2068fc7a6eb"
+    }
+  },
+  "start_state": "e6e040fef8b7d579352437a436720035",
+  "stop_state": "7ca7b8c6cedf56d31394d1679942973c",
+  "event_str": "TouchEvent(state=e6e040fef8b7d579352437a436720035, view=53016295700d06cc9059b2068fc7a6eb(CarbonActivity/View-TOGGLE MEN))"
+}

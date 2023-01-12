@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142259",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1689
+        ],
+        [
+          1083,
+          1865
+        ]
+      ],
+      "resource_id": "bui15val-4",
+      "checked": false,
+      "text": "Location marker Caroline H. Hume Concert Hall 50 Oak St, San Francisco, California",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 112,
+      "size": "1083*176",
+      "signature": "[class]android.view.View[resource_id]bui15val-4[text]None[enabled,,]",
+      "view_str": "a84427b68277100080b293fa605db24a"
+    }
+  },
+  "start_state": "4e312c13d09998005b47652d179ecdb0",
+  "stop_state": "70ae4b4029656211bd43f407632d0c2a",
+  "event_str": "TouchEvent(state=4e312c13d09998005b47652d179ecdb0, view=a84427b68277100080b293fa605db24a(CarbonActivity/View-Location m))"
+}

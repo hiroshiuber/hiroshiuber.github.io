@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140541",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          165,
+          217
+        ],
+        [
+          564,
+          301
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Profile Photo",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 25,
+      "size": "399*84",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Profile Photo[enabled,,]",
+      "view_str": "2431d349ffcbe095091363c66da3d82a"
+    }
+  },
+  "start_state": "82057e4e0a25a2b83b710b45a32efe0b",
+  "stop_state": "82057e4e0a25a2b83b710b45a32efe0b",
+  "event_str": "TouchEvent(state=82057e4e0a25a2b83b710b45a32efe0b, view=2431d349ffcbe095091363c66da3d82a(CarbonActivity/TextView-Profile Ph))"
+}

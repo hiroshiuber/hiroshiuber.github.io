@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_143318",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1689
+        ],
+        [
+          1083,
+          1865
+        ]
+      ],
+      "resource_id": "bui118val-4",
+      "checked": false,
+      "text": "Location marker 516 O'Farrell St San Francisco, California",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 105,
+      "temp_id": 110,
+      "size": "1083*176",
+      "signature": "[class]android.view.View[resource_id]bui118val-4[text]None[enabled,,]",
+      "view_str": "6651e67a7aaa6e63e536a8e662614531"
+    }
+  },
+  "start_state": "aebbca742caa799fabeafbd8b8b92c46",
+  "stop_state": "95f74c723a51739e2b5aa508766835cb",
+  "event_str": "TouchEvent(state=aebbca742caa799fabeafbd8b8b92c46, view=6651e67a7aaa6e63e536a8e662614531(CarbonActivity/View-Location m))"
+}

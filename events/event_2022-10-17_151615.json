@@ -1,0 +1,49 @@
+{
+  "tag": "2022-10-17_151615",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          198,
+          237
+        ],
+        [
+          1014,
+          325
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/search_query_input_edit_text",
+      "checked": false,
+      "text": "Search for places",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "816*88",
+      "signature": "[class]android.widget.EditText[resource_id]com.ubercab.driver:id/search_query_input_edit_text[text]Search for places[enabled,,]",
+      "view_str": "94e3b12befa0294cd07d4e38aa2f2453"
+    },
+    "text": "Humanoid"
+  },
+  "start_state": "253c6cbad229445e6b6587cd5e7da409",
+  "stop_state": "b7d3f4d3999fdca862ad6971768e5a7d",
+  "event_str": "SetTextEvent(state=253c6cbad229445e6b6587cd5e7da409, view=94e3b12befa0294cd07d4e38aa2f2453(CarbonActivity/EditText-Search for), text=Humanoid)"
+}

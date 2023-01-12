@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_150301",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Get Your Refund Status",
+      "children": [
+        91,
+        92
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          1317
+        ],
+        [
+          640,
+          1414
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 89,
+      "temp_id": 90,
+      "size": "602*97",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "a065524bd652a0df820f80f447ba6809"
+    }
+  },
+  "start_state": "66846e36c006f1fc584b3045f0df0697",
+  "stop_state": "da04c181bcb7225870aa7b3a7c87493f",
+  "event_str": "TouchEvent(state=66846e36c006f1fc584b3045f0df0697, view=a065524bd652a0df820f80f447ba6809(CarbonActivity/View-))"
+}

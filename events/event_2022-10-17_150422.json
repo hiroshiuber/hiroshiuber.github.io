@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150422",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          902,
+          974
+        ],
+        [
+          981,
+          1051
+        ]
+      ],
+      "resource_id": "pup-snav",
+      "checked": false,
+      "text": "Collapsed menu button. Press space to activate the menu. Then navigate using the tab key.",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 105,
+      "temp_id": 107,
+      "size": "79*77",
+      "signature": "[class]android.widget.Button[resource_id]pup-snav[text]None[enabled,,]",
+      "view_str": "06fbf56cd758c10ac845c9d9b4c3fa51"
+    }
+  },
+  "start_state": "9f90bc4d0034cf1e982f56808afed858",
+  "stop_state": "9f90bc4d0034cf1e982f56808afed858",
+  "event_str": "TouchEvent(state=9f90bc4d0034cf1e982f56808afed858, view=06fbf56cd758c10ac845c9d9b4c3fa51(CarbonActivity/Button-Collapsed ))"
+}

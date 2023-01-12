@@ -1,0 +1,49 @@
+{
+  "tag": "2022-10-17_141635",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          176,
+          646
+        ],
+        [
+          1034,
+          773
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 100,
+      "size": "858*127",
+      "signature": "[class]android.widget.EditText[resource_id]None[text][enabled,,]",
+      "view_str": "346459d94aa0807aba25ae2b38f1259f"
+    },
+    "text": "Humanoid"
+  },
+  "start_state": "c494c5de9d8d648081263190310de4e0",
+  "stop_state": "bf7cbf65a8c98c9311a7f7674d2bc60c",
+  "event_str": "SetTextEvent(state=c494c5de9d8d648081263190310de4e0, view=346459d94aa0807aba25ae2b38f1259f(CarbonActivity/EditText-), text=Humanoid)"
+}

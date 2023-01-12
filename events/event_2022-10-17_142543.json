@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142543",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          937,
+          512
+        ],
+        [
+          984,
+          556
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Clear value",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 96,
+      "temp_id": 99,
+      "size": "47*44",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Clear value[enabled,,]",
+      "view_str": "21de8e91c86a627a86246a6562053b58"
+    }
+  },
+  "start_state": "4953d59f60fe8bf07bfe94c3e2e01472",
+  "stop_state": "9eb7fe75e808fc2f003247bc8b66e4bd",
+  "event_str": "TouchEvent(state=4953d59f60fe8bf07bfe94c3e2e01472, view=21de8e91c86a627a86246a6562053b58(CarbonActivity/Button-Clear valu))"
+}

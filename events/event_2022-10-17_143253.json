@@ -1,0 +1,49 @@
+{
+  "tag": "2022-10-17_143253",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          176,
+          646
+        ],
+        [
+          1034,
+          773
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Caroline H. Hume Concert Hall",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 99,
+      "temp_id": 101,
+      "size": "858*127",
+      "signature": "[class]android.widget.EditText[resource_id]None[text]Caroline H. Hume Concert Hall[enabled,,]",
+      "view_str": "5d397970a99f409df53be8d04e4a9f59"
+    },
+    "text": "Humanoid"
+  },
+  "start_state": "aebbca742caa799fabeafbd8b8b92c46",
+  "stop_state": "06aab6f79a36875a8d73637d2f87b040",
+  "event_str": "SetTextEvent(state=aebbca742caa799fabeafbd8b8b92c46, view=5d397970a99f409df53be8d04e4a9f59(CarbonActivity/EditText-Caroline H), text=Humanoid)"
+}

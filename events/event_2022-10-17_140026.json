@@ -1,0 +1,49 @@
+{
+  "tag": "2022-10-17_140026",
+  "event": {
+    "event_type": "long_touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1543
+        ],
+        [
+          1080,
+          1763
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "2:45 PM",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 67,
+      "temp_id": 69,
+      "size": "1080*220",
+      "signature": "[class]android.widget.Button[resource_id]None[text]2:45 PM[enabled,,]",
+      "view_str": "8d7c4b17d37233c36079d577017892c9"
+    },
+    "duration": 2000
+  },
+  "start_state": "2a01fc74fa3c807d9847c553f6117236",
+  "stop_state": "6bb2e1cebbfc00d100c941d3753acd69",
+  "event_str": "LongTouchEvent(state=2a01fc74fa3c807d9847c553f6117236, view=8d7c4b17d37233c36079d577017892c9(CarbonActivity/Button-2:45 PM))"
+}

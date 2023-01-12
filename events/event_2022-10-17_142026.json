@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142026",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          110,
+          512
+        ],
+        [
+          154,
+          556
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Circle small",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 96,
+      "temp_id": 97,
+      "size": "44*44",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Circle small[enabled,,]",
+      "view_str": "78e170c8e4b5e2e3445800d8e07c0763"
+    }
+  },
+  "start_state": "18766ec7e7a83273c02d1d5f8c0d9b6d",
+  "stop_state": "e91757ec7d63837dc9f9b66522989956",
+  "event_str": "TouchEvent(state=18766ec7e7a83273c02d1d5f8c0d9b6d, view=78e170c8e4b5e2e3445800d8e07c0763(CarbonActivity/Image-Circle sma))"
+}

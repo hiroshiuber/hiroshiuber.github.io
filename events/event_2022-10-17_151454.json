@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_151454",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1836
+        ],
+        [
+          1036,
+          2045
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/ub__hourlimits_policy_text",
+      "checked": false,
+      "text": "After being offline for 6 hours, you\u2019ll be able to go back online to receive new Uber trips.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 53,
+      "temp_id": 55,
+      "size": "992*209",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/ub__hourlimits_policy_text[text]None[enabled,,]",
+      "view_str": "9aa88f938f9fe553d0a879efdf7c6679"
+    }
+  },
+  "start_state": "cc09f78666ba5672e9a35acabe59cd4d",
+  "stop_state": "cc09f78666ba5672e9a35acabe59cd4d",
+  "event_str": "TouchEvent(state=cc09f78666ba5672e9a35acabe59cd4d, view=9aa88f938f9fe553d0a879efdf7c6679(CarbonActivity/TextView-After bein))"
+}

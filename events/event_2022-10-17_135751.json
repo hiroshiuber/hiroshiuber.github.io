@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135751",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          871,
+          1763
+        ],
+        [
+          1036,
+          1862
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/destination_inspection_sheet_edit",
+      "checked": false,
+      "text": "Edit",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 49,
+      "size": "165*99",
+      "signature": "[class]android.widget.Button[resource_id]com.ubercab.driver:id/destination_inspection_sheet_edit[text]Edit[enabled,,]",
+      "view_str": "d00e231cd4b4bb57a9681a59be2081e5"
+    }
+  },
+  "start_state": "833553e0490289f371408d4b67507d72",
+  "stop_state": "833553e0490289f371408d4b67507d72",
+  "event_str": "TouchEvent(state=833553e0490289f371408d4b67507d72, view=d00e231cd4b4bb57a9681a59be2081e5(CarbonActivity/Button-Edit))"
+}

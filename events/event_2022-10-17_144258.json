@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144258",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          574,
+          349
+        ],
+        [
+          869,
+          391
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "TAX INFORMATION",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 52,
+      "size": "295*42",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]TAX INFORMATION[enabled,,]",
+      "view_str": "cf5e2ce88306fcf25b89f90edccbb929"
+    }
+  },
+  "start_state": "ea63d18673e0a04dd0b391c70a312fa5",
+  "stop_state": "ea63d18673e0a04dd0b391c70a312fa5",
+  "event_str": "TouchEvent(state=ea63d18673e0a04dd0b391c70a312fa5, view=cf5e2ce88306fcf25b89f90edccbb929(CarbonActivity/TextView-TAX INFORM))"
+}

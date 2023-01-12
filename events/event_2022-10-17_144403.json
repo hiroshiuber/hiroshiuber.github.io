@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144403",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          391
+        ],
+        [
+          1105,
+          754
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Your new Uber Wallet \u2013 What\u2019s different?",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 65,
+      "size": "1039*363",
+      "signature": "[class]android.view.View[resource_id]None[text]Your new Uber Wallet \u2013 What\u2019s different?[enabled,,]",
+      "view_str": "db2ca1f732f0b0ce68eff8f658fed58d"
+    }
+  },
+  "start_state": "ad09117e2763271add2cd1fd08de25ee",
+  "stop_state": "ad09117e2763271add2cd1fd08de25ee",
+  "event_str": "TouchEvent(state=ad09117e2763271add2cd1fd08de25ee, view=db2ca1f732f0b0ce68eff8f658fed58d(CarbonActivity/View-Your new U))"
+}

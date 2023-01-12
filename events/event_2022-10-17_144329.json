@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144329",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          198,
+          1746
+        ],
+        [
+          1061,
+          1818
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Earner cashout options",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 74,
+      "size": "863*72",
+      "signature": "[class]android.view.View[resource_id]None[text]Earner cashout options[enabled,,]",
+      "view_str": "c6195500c263b0d4007e5058babfb12b"
+    }
+  },
+  "start_state": "ad09117e2763271add2cd1fd08de25ee",
+  "stop_state": "ad09117e2763271add2cd1fd08de25ee",
+  "event_str": "TouchEvent(state=ad09117e2763271add2cd1fd08de25ee, view=c6195500c263b0d4007e5058babfb12b(CarbonActivity/View-Earner cas))"
+}

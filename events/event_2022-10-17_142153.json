@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142153",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1276
+        ],
+        [
+          517,
+          1378
+        ]
+      ],
+      "resource_id": "card-expiration",
+      "checked": false,
+      "text": "",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 232,
+      "temp_id": 233,
+      "size": "451*102",
+      "signature": "[class]android.widget.EditText[resource_id]card-expiration[text][enabled,,]",
+      "view_str": "1792a30d7b671a9765317e8267b71577"
+    }
+  },
+  "start_state": "eeb519864e6293d3dadd7c27952057fc",
+  "stop_state": "eeb519864e6293d3dadd7c27952057fc",
+  "event_str": "TouchEvent(state=eeb519864e6293d3dadd7c27952057fc, view=1792a30d7b671a9765317e8267b71577(CarbonActivity/EditText-))"
+}

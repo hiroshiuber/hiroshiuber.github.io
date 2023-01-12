@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141606",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1972
+        ],
+        [
+          1039,
+          2107
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Cancel",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 92,
+      "size": "995*135",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Cancel[enabled,,]",
+      "view_str": "2f1d312134ff3fcdb7d0987bfa08d06a"
+    }
+  },
+  "start_state": "fa9b00bf756fde1c8f0f21fe4493274a",
+  "stop_state": "098012101b290a3600ad1e8fefd0343d",
+  "event_str": "TouchEvent(state=fa9b00bf756fde1c8f0f21fe4493274a, view=2f1d312134ff3fcdb7d0987bfa08d06a(CarbonActivity/Button-Cancel))"
+}

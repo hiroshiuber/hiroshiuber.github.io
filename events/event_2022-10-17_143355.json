@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_143355",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          165,
+          215
+        ],
+        [
+          1069,
+          303
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Book an Uber ride using your web browser on your desktop or phone",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 28,
+      "size": "904*88",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]",
+      "view_str": "0c1e71c2c6a589579c8579b506e21e0c"
+    }
+  },
+  "start_state": "d410b1a9f8c87c62255f326f3c66d8a1",
+  "stop_state": "d410b1a9f8c87c62255f326f3c66d8a1",
+  "event_str": "TouchEvent(state=d410b1a9f8c87c62255f326f3c66d8a1, view=0c1e71c2c6a589579c8579b506e21e0c(CarbonActivity/TextView-Book an Ub))"
+}

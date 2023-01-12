@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_150508",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "H\u00e3y \u0110\u1ec3 Ch\u00fang T\u00f4i Gi\u00fap Qu\u00fd V\u1ecb | Internal Revenue Service",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "57bc644ac98c1d0ef629963bf592777a"
+    },
+    "direction": "UP"
+  },
+  "start_state": "dd9362fdf4f5f04184809cf9aee7457d",
+  "stop_state": "dd9362fdf4f5f04184809cf9aee7457d",
+  "event_str": "ScrollEvent(state=dd9362fdf4f5f04184809cf9aee7457d, view=57bc644ac98c1d0ef629963bf592777a(CarbonActivity/WebView-H\u00e3y \u0110\u1ec3 Ch\u00fa), direction=UP)"
+}

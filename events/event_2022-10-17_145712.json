@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145712",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1568
+        ],
+        [
+          440,
+          1669
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Damaged Vehicle",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 113,
+      "temp_id": 117,
+      "size": "396*101",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Damaged Vehicle[enabled,,]",
+      "view_str": "2aa4d52b6e8a4c45cea38ad4f86c01e7"
+    }
+  },
+  "start_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "stop_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "event_str": "TouchEvent(state=0dc66136fe5a2b420f39c5956c5dc704, view=2aa4d52b6e8a4c45cea38ad4f86c01e7(CarbonActivity/Button-Damaged Ve))"
+}

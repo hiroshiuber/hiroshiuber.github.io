@@ -1,0 +1,11 @@
+{
+  "tag": "2022-10-17_140609",
+  "event": {
+    "event_type": "key",
+    "log_lines": null,
+    "name": "BACK"
+  },
+  "start_state": "82057e4e0a25a2b83b710b45a32efe0b",
+  "stop_state": "96fd1948d7487f18df40da26e158070f",
+  "event_str": "KeyEvent(state=82057e4e0a25a2b83b710b45a32efe0b, name=BACK)"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140351",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1293
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "AGREEMENT #1\n\nWhen at or entering Uber\u2019s Greenlight Hubs, you:\n\n- Must wear a mask or other face covering.\n- Must follow local physical distancing guidelines. In most places, that means staying 6 feet or 2 meters from other individuals.\n- May have a temperature check performed, if required by law or considered necessary by Uber.\n- Should practice good personal hygiene, including but not limited to washing your hands and/or using hand sanitizer.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 32,
+      "size": "1080*855",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]",
+      "view_str": "ff32fc9f514024c0fb5090e8a6f5e939"
+    }
+  },
+  "start_state": "c329ae856791032b5eb34a9b37a1111d",
+  "stop_state": "c329ae856791032b5eb34a9b37a1111d",
+  "event_str": "TouchEvent(state=c329ae856791032b5eb34a9b37a1111d, view=ff32fc9f514024c0fb5090e8a6f5e939(CarbonActivity/TextView-AGREEMENT ))"
+}

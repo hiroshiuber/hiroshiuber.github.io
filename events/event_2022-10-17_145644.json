@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145644",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          187,
+          1152
+        ],
+        [
+          836,
+          1271
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Hi there, I'm Lime's virtual assistant. How can I help you today?",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 113,
+      "temp_id": 115,
+      "size": "649*119",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "fd1c86a3caff5d5f1e676834176d8d14"
+    }
+  },
+  "start_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "stop_state": "0dc66136fe5a2b420f39c5956c5dc704",
+  "event_str": "TouchEvent(state=0dc66136fe5a2b420f39c5956c5dc704, view=fd1c86a3caff5d5f1e676834176d8d14(CarbonActivity/View-Hi there, ))"
+}

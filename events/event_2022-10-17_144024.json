@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144024",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1149
+        ],
+        [
+          1014,
+          1358
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/primary_text",
+      "checked": false,
+      "text": "Rent or add your vehicle",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 38,
+      "size": "948*209",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/primary_text[text]Rent or add your vehicle[enabled,,]",
+      "view_str": "bac52aceba6ee35dab70cbc581d0d8e1"
+    }
+  },
+  "start_state": "9fa916fac1d709cf94a6e925e56c93a2",
+  "stop_state": "9fa916fac1d709cf94a6e925e56c93a2",
+  "event_str": "TouchEvent(state=9fa916fac1d709cf94a6e925e56c93a2, view=bac52aceba6ee35dab70cbc581d0d8e1(CarbonActivity/TextView-Rent or ad))"
+}

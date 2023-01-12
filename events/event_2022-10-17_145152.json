@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_145152",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "TAX INFORMATION",
+      "children": [
+        53
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          222,
+          341
+        ],
+        [
+          536,
+          424
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 52,
+      "size": "314*83",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "dbb41f37c9aedbd265d3dc88550e6188"
+    }
+  },
+  "start_state": "88df5e762a01f995ef753c6b78cbb0a3",
+  "stop_state": "88df5e762a01f995ef753c6b78cbb0a3",
+  "event_str": "TouchEvent(state=88df5e762a01f995ef753c6b78cbb0a3, view=dbb41f37c9aedbd265d3dc88550e6188(CarbonActivity/View-))"
+}

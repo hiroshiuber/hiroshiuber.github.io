@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142705",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1227
+        ],
+        [
+          448,
+          1328
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Clock Leave Now Chevron down small",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 94,
+      "size": "404*101",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Clock Leave Now Chevron down small[enabled,,]",
+      "view_str": "cea1468d29385ed4725b6213058ecff1"
+    }
+  },
+  "start_state": "273b622cd1ed59888fa588c5e481999e",
+  "stop_state": "273b622cd1ed59888fa588c5e481999e",
+  "event_str": "TouchEvent(state=273b622cd1ed59888fa588c5e481999e, view=cea1468d29385ed4725b6213058ecff1(CarbonActivity/Button-Clock Leav))"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140919",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          110,
+          1856
+        ],
+        [
+          424,
+          1911
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/ub__loyalty_hub_rating_item_label",
+      "checked": false,
+      "text": "Cancellation rate",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "314*55",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/ub__loyalty_hub_rating_item_label[text]Cancellation rate[enabled,,]",
+      "view_str": "c9e02aab1d00f9d3d72357769baae818"
+    }
+  },
+  "start_state": "5ff7a3a7e1bca3edde102ddc93eba388",
+  "stop_state": "05ad585c6492536dd8ea251d0b80c81b",
+  "event_str": "TouchEvent(state=5ff7a3a7e1bca3edde102ddc93eba388, view=c9e02aab1d00f9d3d72357769baae818(CarbonActivity/TextView-Cancellati))"
+}

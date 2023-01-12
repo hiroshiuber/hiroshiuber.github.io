@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_144454",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1127,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber Wallet",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1127*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Uber Wallet[enabled,,]",
+      "view_str": "96679ea40a708b9bcd3c064d4979340f"
+    },
+    "direction": "UP"
+  },
+  "start_state": "ad09117e2763271add2cd1fd08de25ee",
+  "stop_state": "ad09117e2763271add2cd1fd08de25ee",
+  "event_str": "ScrollEvent(state=ad09117e2763271add2cd1fd08de25ee, view=96679ea40a708b9bcd3c064d4979340f(CarbonActivity/WebView-Uber Walle), direction=UP)"
+}

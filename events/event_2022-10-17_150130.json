@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150130",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          864
+        ],
+        [
+          159,
+          2150
+        ]
+      ],
+      "resource_id": "datepicker--screenreader--message--input",
+      "checked": false,
+      "text": "Press the down arrow key to interact with the calendar and select a date. Press the escape button to close the calendar.",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 113,
+      "size": "159*1286",
+      "signature": "[class]android.view.View[resource_id]datepicker--screenreader--message--input[text]None[enabled,,]",
+      "view_str": "e3c0f31ff74e3cf16a928997c6b7bd31"
+    }
+  },
+  "start_state": "b2703995149b924a3b48079ed35caada",
+  "stop_state": "b2703995149b924a3b48079ed35caada",
+  "event_str": "TouchEvent(state=b2703995149b924a3b48079ed35caada, view=e3c0f31ff74e3cf16a928997c6b7bd31(CarbonActivity/View-Press the ))"
+}

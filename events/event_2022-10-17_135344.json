@@ -1,0 +1,11 @@
+{
+  "tag": "2022-10-17_135344",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.ubercab.driver"
+  },
+  "start_state": "046cfb9f3bef31d068a593244211a9a4",
+  "stop_state": "046cfb9f3bef31d068a593244211a9a4",
+  "event_str": "KillAppEvent()"
+}

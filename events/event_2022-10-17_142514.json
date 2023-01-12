@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142514",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          132,
+          1878
+        ],
+        [
+          525,
+          1925
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Add Payment Method",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 209,
+      "temp_id": 211,
+      "size": "393*47",
+      "signature": "[class]android.view.View[resource_id]None[text]Add Payment Method[enabled,,]",
+      "view_str": "4423277bbc564f1aa95e84c952574b77"
+    }
+  },
+  "start_state": "9bc308a5a0477ba8071af3a694d8b1be",
+  "stop_state": "9bc308a5a0477ba8071af3a694d8b1be",
+  "event_str": "TouchEvent(state=9bc308a5a0477ba8071af3a694d8b1be, view=4423277bbc564f1aa95e84c952574b77(CarbonActivity/View-Add Paymen))"
+}

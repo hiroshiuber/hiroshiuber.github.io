@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135928",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          154,
+          1807
+        ],
+        [
+          254,
+          1873
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/destination_inspection_sheet_arrive_by_time",
+      "checked": false,
+      "text": "ASAP",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 46,
+      "temp_id": 48,
+      "size": "100*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/destination_inspection_sheet_arrive_by_time[text]ASAP[enabled,,]",
+      "view_str": "82ad0d7a0fec28f88137c23955fec959"
+    }
+  },
+  "start_state": "875b9ddcb2c35c47c5d408b42efdcd1e",
+  "stop_state": "875b9ddcb2c35c47c5d408b42efdcd1e",
+  "event_str": "TouchEvent(state=875b9ddcb2c35c47c5d408b42efdcd1e, view=82ad0d7a0fec28f88137c23955fec959(CarbonActivity/TextView-ASAP))"
+}

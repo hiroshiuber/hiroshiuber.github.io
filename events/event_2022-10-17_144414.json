@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144414",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1843
+        ],
+        [
+          1039,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Bank Account \u2022\u2022\u2022\u2022\u2022\u202223\u00a0 - XXXXXXXXXXX23",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 50,
+      "temp_id": 51,
+      "size": "995*307",
+      "signature": "[class]android.view.View[resource_id]None[text]Bank Account \u2022\u2022\u2022\u2022\u2022\u202223\u00a0 - XXXXXXXXXXX23[enabled,,]",
+      "view_str": "773cbc58ba35da9e3946490003cc4d1b"
+    }
+  },
+  "start_state": "ad09117e2763271add2cd1fd08de25ee",
+  "stop_state": "15ce72e4f01a8a804881d4ee9a113fae",
+  "event_str": "TouchEvent(state=ad09117e2763271add2cd1fd08de25ee, view=773cbc58ba35da9e3946490003cc4d1b(CarbonActivity/View-Bank Accou))"
+}

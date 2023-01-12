@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_143020",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          550,
+          1499
+        ],
+        [
+          888,
+          1540
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Map data \u00a92022 Google",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 75,
+      "temp_id": 79,
+      "size": "338*41",
+      "signature": "[class]android.view.View[resource_id]None[text]Map data \u00a92022 Google[enabled,,]",
+      "view_str": "a1d51669192f58284946d970d0304934"
+    }
+  },
+  "start_state": "741a27eb2383078c211ac512c4687eb0",
+  "stop_state": "741a27eb2383078c211ac512c4687eb0",
+  "event_str": "TouchEvent(state=741a27eb2383078c211ac512c4687eb0, view=a1d51669192f58284946d970d0304934(CarbonActivity/View-Map data \u00a9))"
+}

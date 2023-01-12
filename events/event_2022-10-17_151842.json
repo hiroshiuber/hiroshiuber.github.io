@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_151842",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1972
+        ],
+        [
+          1039,
+          2107
+        ]
+      ],
+      "resource_id": "doc-input",
+      "checked": false,
+      "text": "Choose File",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 43,
+      "size": "995*135",
+      "signature": "[class]android.widget.Button[resource_id]doc-input[text]Choose File[enabled,,]",
+      "view_str": "0c0af40b1e896b687d4f0ebe94983dc0"
+    }
+  },
+  "start_state": "4dbe36319f13f37330c3c52c2d7900c5",
+  "stop_state": "77ba3c39846947515b738143e1def2ac",
+  "event_str": "TouchEvent(state=4dbe36319f13f37330c3c52c2d7900c5, view=0c0af40b1e896b687d4f0ebe94983dc0(CarbonActivity/Button-Choose Fil))"
+}

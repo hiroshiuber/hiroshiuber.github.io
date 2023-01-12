@@ -1,0 +1,472 @@
+Activity Resolver Table:
+  Schemes:
+      uberdriver:
+        7411eca com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity filter 857d83b
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "uberdriver"
+      http:
+        7411eca com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity filter 3e1bd17
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "skuo.app.link": -1
+          Authority: "skuo.app.link": -1
+          AutoVerify=true
+      https:
+        7411eca com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity filter 34d44b1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Authority: "partners.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /open-mobile-app}"
+          AutoVerify=true
+        7411eca com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity filter 4ba5d96
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Authority: "auth3.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /autologin/driver}"
+          AutoVerify=true
+        7411eca com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity filter 3e1bd17
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "skuo.app.link": -1
+          Authority: "skuo.app.link": -1
+          AutoVerify=true
+        b6bd22 com.ubercab.driver/com.uber.identity.api.uauth.internal.helper.AppLinkActivity filter 1a1d70
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Authority: "auth3.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /applogin/carbon}"
+          AutoVerify=true
+      com.ubercab.driver.uberpay:
+        9d02a88 com.ubercab.driver/com.ubercab.presidio.payment.uberpay.operation.authorization.UberPayWebAuthorizationActivity filter 7c7bc21
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "com.ubercab.driver.uberpay"
+          Authority: "authorization": -1
+      uberlogin:
+        b6bd22 com.ubercab.driver/com.uber.identity.api.uauth.internal.helper.AppLinkActivity filter 5bb13b3
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "uberlogin"
+          Authority: "auth3.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /applogin/carbon}"
+        b6bd22 com.ubercab.driver/com.uber.identity.api.uauth.internal.helper.AppLinkActivity filter 4b6d8e9
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "uberlogin"
+          Authority: "auth3.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /socialNative/carbon}"
+        b6bd22 com.ubercab.driver/com.uber.identity.api.uauth.internal.helper.AppLinkActivity filter 527896e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "uberlogin"
+          Authority: "auth3.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /carbon/emailverification}"
+        b6bd22 com.ubercab.driver/com.uber.identity.api.uauth.internal.helper.AppLinkActivity filter 6c9380f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "uberlogin"
+          Authority: "auth.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /v2/applogin/carbon}"
+        b6bd22 com.ubercab.driver/com.uber.identity.api.uauth.internal.helper.AppLinkActivity filter d5ba09c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "uberlogin"
+          Authority: "auth.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /v2/socialNative/carbon}"
+        b6bd22 com.ubercab.driver/com.uber.identity.api.uauth.internal.helper.AppLinkActivity filter f9b1aa5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "uberlogin"
+          Authority: "auth.uber.com": -1
+          Path: "PatternMatcher{PREFIX: /v2/carbon/emailverification}"
+      com.ubercab.driver.payment.provider.callback:
+        7c6ce7a com.ubercab.driver/com.uber.payment.provider.common.step_handlers.webauth.PaymentMethodWebAuthStepHandlerActivity filter eeb462b
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "com.ubercab.driver.payment.provider.callback"
+      adyen3ds2:
+        584b504 com.ubercab.driver/com.adyen.threeds2.internal.ui.activity.ChallengeActivity filter dc07aed
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "adyen3ds2"
+          Authority: "com.ubercab.driver": -1
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        7411eca com.ubercab.driver/com.ubercab.carbon.core.CarbonActivity filter 9eb3b58
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.ubercab.presidio.STYLE_GUIDE:
+        de35846 com.ubercab.driver/com.ubercab.presidio.styleguide.v2.MainActivityV2 filter ad61a07
+          Action: "com.ubercab.presidio.STYLE_GUIDE"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        23ace59 com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter fbf2a1e
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        3b04fa3 com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 567c2a0
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        46e42ff com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter b9668cc
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        cc0f715 com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 8afca2a
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        46e42ff com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter b9668cc
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      com.ubercab.presidio.PUSH_NOTIFICATION_ACTION_DELETE:
+        e5927e7 com.ubercab.driver/com.ubercab.notification.optional.PushNotificationActionReceiver filter 9c88f94
+          Action: "com.ubercab.presidio.PUSH_NOTIFICATION_ACTION_CLICK"
+          Action: "com.ubercab.presidio.PUSH_NOTIFICATION_ACTION_DELETE"
+      com.ubercab.notification.core.actions.intercom.IntercomDirectReplyReceiver:
+        6865b83 com.ubercab.driver/com.ubercab.notification.core.actions.intercom.IntercomDirectReplyReceiver filter 1691100
+          Action: "com.ubercab.notification.core.actions.intercom.IntercomDirectReplyReceiver"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        1816734 com.ubercab.driver/androidx.profileinstaller.ProfileInstallReceiver filter 7c2f95d
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      com.google.android.c2dm.intent.RECEIVE:
+        246793 com.ubercab.driver/com.google.firebase.iid.FirebaseInstanceIdReceiver filter 5c113d0
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+      com.ubercab.presidio.PUSH_NOTIFICATION_ACTION_CLICK:
+        e5927e7 com.ubercab.driver/com.ubercab.notification.optional.PushNotificationActionReceiver filter 9c88f94
+          Action: "com.ubercab.presidio.PUSH_NOTIFICATION_ACTION_CLICK"
+          Action: "com.ubercab.presidio.PUSH_NOTIFICATION_ACTION_DELETE"
+      android.app.action.APP_BLOCK_STATE_CHANGED:
+        69c6a3d com.ubercab.driver/com.ubercab.notification.optional.NotificationBlockStateReceiver filter 1260232
+          Action: "android.app.action.APP_BLOCK_STATE_CHANGED"
+          Action: "android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED"
+          Action: "android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED"
+      android.intent.action.BATTERY_LOW:
+        23ace59 com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter fbf2a1e
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        8ee101b com.ubercab.driver/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 62745b8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        8ee101b com.ubercab.driver/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 62745b8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      androidx.profileinstaller.action.SKIP_FILE:
+        1816734 com.ubercab.driver/androidx.profileinstaller.ProfileInstallReceiver filter ecb2d2
+          Action: "androidx.profileinstaller.action.SKIP_FILE"
+      com.ubercab.push.UBER_NEW_TOKEN:
+        eef360b com.ubercab.driver/com.ubercab.presidio.pushnotifier.core.PushRegistrationNewTokenReceiver filter 5d38ce8
+          Action: "com.ubercab.push.UBER_NEW_TOKEN"
+      com.ubercab.dispatch.ACCEPT_OFFER:
+        a1effc9 com.ubercab.driver/com.ubercab.dispatch.DispatchReceiver filter f9856ce
+          Action: "com.ubercab.dispatch.REJECT_OFFER"
+          Action: "com.ubercab.dispatch.ACCEPT_OFFER"
+      android.intent.action.BOOT_COMPLETED:
+        8ee101b com.ubercab.driver/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 62745b8
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+        371df01 com.ubercab.driver/com.uber.time.ntp.NtpBootCompletedReceiver filter 53471a6
+          Action: "android.intent.action.BOOT_COMPLETED"
+      android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED:
+        69c6a3d com.ubercab.driver/com.ubercab.notification.optional.NotificationBlockStateReceiver filter 1260232
+          Action: "android.app.action.APP_BLOCK_STATE_CHANGED"
+          Action: "android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED"
+          Action: "android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        3b04fa3 com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 567c2a0
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      com.ubercab.dispatch.REJECT_OFFER:
+        a1effc9 com.ubercab.driver/com.ubercab.dispatch.DispatchReceiver filter f9856ce
+          Action: "com.ubercab.dispatch.REJECT_OFFER"
+          Action: "com.ubercab.dispatch.ACCEPT_OFFER"
+      android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED:
+        69c6a3d com.ubercab.driver/com.ubercab.notification.optional.NotificationBlockStateReceiver filter 1260232
+          Action: "android.app.action.APP_BLOCK_STATE_CHANGED"
+          Action: "android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED"
+          Action: "android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        fa3e9ef com.ubercab.driver/com.uber.opportunities_widget.OpportunitiesAppWidgetProvider filter 7eb9cfc
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        2d392f7 com.ubercab.driver/androidx.work.impl.diagnostics.DiagnosticsReceiver filter ce70564
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        159f3cd com.ubercab.driver/com.adyen.threeds2.internal.AppUpgradeBroadcastReceiver filter 9237482
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        a46ef91 com.ubercab.driver/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 8585ef6
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+      com.ubercab.push.UBER_MESSAGE:
+        ecf85 com.ubercab.driver/com.ubercab.presidio.pushnotifier.core.PushReceiver filter f6711da
+          Action: "com.ubercab.push.UBER_MESSAGE"
+        2ea6d39 com.ubercab.driver/com.ubercab.healthline.direct_command.push.core.receiver.DirectCommandPushReceiver filter e2e0f7e
+          Action: "com.ubercab.push.UBER_MESSAGE"
+          mPriority=999, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.firebase.MESSAGING_EVENT:
+        bc92cdf com.ubercab.driver/com.google.firebase.messaging.FirebaseMessagingService filter 3ce3d2c
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+        17ba3f5 com.ubercab.driver/com.ubercab.push.UberFirebaseMessagingService filter 217a58a
+          Action: "com.google.firebase.MESSAGING_EVENT"
+      com.firebase.jobdispatcher.ACTION_EXECUTE:
+        b3db7fb com.ubercab.driver/com.ubercab.persistent.place_cache.top_dest_scheduler.PlaceCacheUpdateService filter e780018
+          Action: "com.firebase.jobdispatcher.ACTION_EXECUTE"
+
+Registered ContentProviders:
+  com.ubercab.driver/com.ubercab.apk_download.AppDownloadFileProvider:
+    Provider{2fe92e5 com.ubercab.driver/com.ubercab.apk_download.AppDownloadFileProvider}
+  com.ubercab.driver/androidx.core.content.FileProvider:
+    Provider{94481ba com.ubercab.driver/androidx.core.content.FileProvider}
+  com.ubercab.driver/com.ubercab.uber_bank.statements.common.StatementsFileProvider:
+    Provider{18e186b com.ubercab.driver/com.ubercab.uber_bank.statements.common.StatementsFileProvider}
+  com.ubercab.driver/com.ubercab.external_web_view.core.WebviewFileProvider:
+    Provider{2b32fc8 com.ubercab.driver/com.ubercab.external_web_view.core.WebviewFileProvider}
+  com.ubercab.driver/com.google.firebase.perf.provider.FirebasePerfProvider:
+    Provider{b8a7861 com.ubercab.driver/com.google.firebase.perf.provider.FirebasePerfProvider}
+  com.ubercab.driver/com.squareup.picasso.PicassoProvider:
+    Provider{6a8ff86 com.ubercab.driver/com.squareup.picasso.PicassoProvider}
+  com.ubercab.driver/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{b73d047 com.ubercab.driver/com.google.firebase.provider.FirebaseInitProvider}
+  com.ubercab.driver/com.ubercab.help.util.HelpUtilFileProvider:
+    Provider{7af8074 com.ubercab.driver/com.ubercab.help.util.HelpUtilFileProvider}
+  com.ubercab.driver/androidx.startup.InitializationProvider:
+    Provider{c95399d com.ubercab.driver/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.ubercab.driver.help.util.FileProvider]:
+    Provider{7af8074 com.ubercab.driver/com.ubercab.help.util.HelpUtilFileProvider}
+      applicationInfo=ApplicationInfo{f858e12 com.ubercab.driver}
+  [com.ubercab.driver.firebaseinitprovider]:
+    Provider{b73d047 com.ubercab.driver/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{11329e3 com.ubercab.driver}
+  [com.ubercab.driver.fileprovider]:
+    Provider{2b32fc8 com.ubercab.driver/com.ubercab.external_web_view.core.WebviewFileProvider}
+      applicationInfo=ApplicationInfo{47e2fe0 com.ubercab.driver}
+  [com.ubercab.driver.apk_download.FileProvider]:
+    Provider{2fe92e5 com.ubercab.driver/com.ubercab.apk_download.AppDownloadFileProvider}
+      applicationInfo=ApplicationInfo{390d299 com.ubercab.driver}
+  [com.ubercab.driver.firebaseperfprovider]:
+    Provider{b8a7861 com.ubercab.driver/com.google.firebase.perf.provider.FirebasePerfProvider}
+      applicationInfo=ApplicationInfo{2a795e com.ubercab.driver}
+  [com.ubercab.driver.androidx-startup]:
+    Provider{c95399d com.ubercab.driver/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{fc4813f com.ubercab.driver}
+  [com.ubercab.driver.com.squareup.picasso]:
+    Provider{6a8ff86 com.ubercab.driver/com.squareup.picasso.PicassoProvider}
+      applicationInfo=ApplicationInfo{bc66a0c com.ubercab.driver}
+  [com.ubercab.driver.uber_bank.statements.common.FileProvider]:
+    Provider{18e186b com.ubercab.driver/com.ubercab.uber_bank.statements.common.StatementsFileProvider}
+      applicationInfo=ApplicationInfo{912ff55 com.ubercab.driver}
+
+Key Set Manager:
+  [com.ubercab.driver]
+      Signing KeySets: 39
+
+Packages:
+  Package [com.ubercab.driver] (7a0cd6a):
+    userId=10158
+    pkg=Package{809f25b com.ubercab.driver}
+    codePath=/data/app/~~wNSfS17fCnBAJsqMtJVBpw==/com.ubercab.driver-Q5pGShpVwHf_QxRL6ZY8UA==
+    resourcePath=/data/app/~~wNSfS17fCnBAJsqMtJVBpw==/com.ubercab.driver-Q5pGShpVwHf_QxRL6ZY8UA==
+    legacyNativeLibraryDir=/data/app/~~wNSfS17fCnBAJsqMtJVBpw==/com.ubercab.driver-Q5pGShpVwHf_QxRL6ZY8UA==/lib
+    primaryCpuAbi=x86
+    secondaryCpuAbi=null
+    versionCode=128294 minSdk=24 targetSdk=31
+    versionName=4.391.10001
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{809f25b com.ubercab.driver}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE HAS_DOMAIN_URLS PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesIntents=[Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { act=android.media.browse.MediaBrowserService }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https:///... }, Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { act=android.intent.action.SEND dat=content://*/* typ=text/plain }, Intent { act=android.intent.action.SENDTO dat=smsto:xxxxx }, Intent { act=android.intent.action.DIAL dat=tel:xxxxx }, Intent { act=android.media.action.IMAGE_CAPTURE }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https:///... }, Intent { act=android.intent.action.VIEW dat=http:///... }, Intent { act=android.intent.action.VIEW dat=upi://pay/* }]
+    dataDir=/data/user/0/com.ubercab.driver
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2022-10-17 13:49:12
+    firstInstallTime=2022-10-17 13:49:13
+    lastUpdateTime=2022-10-17 13:49:13
+    signatures=PackageSignatures{1761af8 version:3, signatures:[16c744bb], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    requested permissions:
+      android.permission.USE_BIOMETRIC
+      android.permission.USE_FINGERPRINT
+      android.permission.WAKE_LOCK
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.FOREGROUND_SERVICE
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+      android.permission.INTERNET
+      android.permission.CAMERA
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      com.google.android.gms.permission.AD_ID
+      com.google.android.c2dm.permission.RECEIVE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_WIFI_STATE
+      com.google.android.providers.gsf.permission.READ_GSERVICES
+      android.permission.VIBRATE
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.READ_PHONE_STATE
+      android.permission.BLUETOOTH
+      android.permission.BLUETOOTH_ADMIN
+      android.permission.BLUETOOTH_SCAN
+      android.permission.BLUETOOTH_CONNECT
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.RECORD_AUDIO
+      android.permission.ACTIVITY_RECOGNITION
+      android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
+      android.permission.READ_CONTACTS
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+      android.permission.SCHEDULE_EXACT_ALARM
+      android.permission.GET_ACCOUNTS
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.USE_FULL_SCREEN_INTENT
+    install permissions:
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE: granted=true
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      com.google.android.providers.gsf.permission.READ_GSERVICES: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS: granted=true
+      android.permission.BLUETOOTH: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.BLUETOOTH_ADMIN: granted=true
+      android.permission.USE_FULL_SCREEN_INTENT: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.USE_FINGERPRINT: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.USE_BIOMETRIC: granted=true
+      com.google.android.gms.permission.AD_ID: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=147473 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+    overlay paths:
+      /product/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk
+      gids=[3002, 3003, 3001]
+      runtime permissions:
+        android.permission.ACCESS_FINE_LOCATION: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACCESS_COARSE_LOCATION: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_PHONE_STATE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.CAMERA: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.GET_ACCOUNTS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.ACTIVITY_RECOGNITION: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.RECORD_AUDIO: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_CONTACTS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+      enabledComponents:
+        com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+        androidx.work.impl.background.systemjob.SystemJobService
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+    com.ubercab.driver:
+      com.android.chrome
+      com.google.android.apps.maps
+  queries via intent:
+    com.ubercab.driver:
+      com.google.android.setupwizard
+      com.android.dialer
+      com.google.android.googlequicksearchbox
+      com.google.android.apps.youtube.music
+      org.chromium.webview_shell
+      com.google.android.apps.docs
+      com.android.chrome
+      com.google.android.apps.messaging
+      com.google.android.youtube
+      com.google.android.gm
+      com.google.android.calendar
+      com.android.camera2
+  queryable via interaction:
+    User 0:
+      [com.android.location.fused,com.android.providers.settings,com.android.keychain,com.android.server.telecom,com.android.dynsystem,com.android.emulator.multidisplay,com.android.settings,com.android.inputdevices,com.android.wallpaperbackup,android,com.android.localtransport]:
+        com.ubercab.driver
+      com.android.vending:
+        com.ubercab.driver
+      [com.google.android.gms,com.google.android.gsf]:
+        com.ubercab.driver
+      com.google.android.webview:
+        com.ubercab.driver
+      com.android.chrome:
+        com.ubercab.driver
+      com.google.android.permissioncontroller:
+        com.ubercab.driver
+      io.github.ylimit.droidbotapp:
+        com.ubercab.driver
+      com.ubercab.driver:
+        [com.android.location.fused,com.android.providers.settings,com.android.keychain,com.android.server.telecom,com.android.dynsystem,com.android.emulator.multidisplay,com.android.settings,com.android.inputdevices,com.android.wallpaperbackup,android,com.android.localtransport]
+        com.google.android.webview
+
+Package Changes:
+  Sequence number=18
+  User 0:
+    seq=9, package=com.google.android.gms
+    seq=11, package=io.github.ylimit.droidbotapp
+    seq=17, package=com.ubercab.driver
+
+
+Dexopt state:
+  [com.ubercab.driver]
+    path: /data/app/~~wNSfS17fCnBAJsqMtJVBpw==/com.ubercab.driver-Q5pGShpVwHf_QxRL6ZY8UA==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.ubercab.driver]
+     base.apk - 41061
+
+APEX session state:
+
+Active APEX packages:
+
+
+Inactive APEX packages:
+
+
+Factory APEX packages:
+
+

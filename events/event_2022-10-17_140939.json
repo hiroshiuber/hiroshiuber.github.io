@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140939",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          712
+        ],
+        [
+          1039,
+          833
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Your points",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 48,
+      "size": "995*121",
+      "signature": "[class]android.view.View[resource_id]None[text]Your points[enabled,,]",
+      "view_str": "a56d639f5ee3c22ec8adff8feb23680d"
+    }
+  },
+  "start_state": "05ad585c6492536dd8ea251d0b80c81b",
+  "stop_state": "05ad585c6492536dd8ea251d0b80c81b",
+  "event_str": "TouchEvent(state=05ad585c6492536dd8ea251d0b80c81b, view=a56d639f5ee3c22ec8adff8feb23680d(CarbonActivity/View-Your point))"
+}

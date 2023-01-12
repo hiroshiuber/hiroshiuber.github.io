@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145547",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1716
+        ],
+        [
+          184,
+          1785
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 99,
+      "size": "118*69",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Uber[enabled,,]",
+      "view_str": "902ee28d10b98a871ae4ceb6957daffa"
+    }
+  },
+  "start_state": "d7afccc526bc1f1349c1dc4d06aa2c17",
+  "stop_state": "a430bf7865ea22aef5cb90b73fe2f86b",
+  "event_str": "TouchEvent(state=d7afccc526bc1f1349c1dc4d06aa2c17, view=902ee28d10b98a871ae4ceb6957daffa(CarbonActivity/TextView-Uber))"
+}

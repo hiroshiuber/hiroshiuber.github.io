@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141010",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          347
+        ],
+        [
+          1017,
+          646
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "NON-CALIFORNIA UBER PRO TERMS AND CONDITIONS",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 66,
+      "temp_id": 307,
+      "size": "951*299",
+      "signature": "[class]android.view.View[resource_id]None[text]NON-CALIFORNIA UBER PRO TERMS AND CONDITIONS[enabled,,]",
+      "view_str": "909a46efd0c9f04a5f2522a141de6ba5"
+    }
+  },
+  "start_state": "93e1217a112b2af726dbde5142d2744a",
+  "stop_state": "93e1217a112b2af726dbde5142d2744a",
+  "event_str": "TouchEvent(state=93e1217a112b2af726dbde5142d2744a, view=909a46efd0c9f04a5f2522a141de6ba5(CarbonActivity/View-NON-CALIFO))"
+}

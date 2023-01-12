@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142212",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          981,
+          806
+        ],
+        [
+          1050,
+          875
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Close",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 219,
+      "temp_id": 254,
+      "size": "69*69",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Close[enabled,,]",
+      "view_str": "0fee846d3bffda5e3f9eaa4d2984ef0b"
+    }
+  },
+  "start_state": "eeb519864e6293d3dadd7c27952057fc",
+  "stop_state": "eeb519864e6293d3dadd7c27952057fc",
+  "event_str": "TouchEvent(state=eeb519864e6293d3dadd7c27952057fc, view=0fee846d3bffda5e3f9eaa4d2984ef0b(CarbonActivity/Button-Close))"
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_150316",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Krey\u00f2l ayisyen",
+      "children": [
+        89
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          759,
+          671
+        ],
+        [
+          1028,
+          732
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 87,
+      "temp_id": 88,
+      "size": "269*61",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "341f7cb604e10a043ab5a1cab6a5f08a"
+    }
+  },
+  "start_state": "e167c76262609d21f8282d4f7b27ee22",
+  "stop_state": "ec8546941863ac7a9ebc23feb6ece140",
+  "event_str": "TouchEvent(state=e167c76262609d21f8282d4f7b27ee22, view=341f7cb604e10a043ab5a1cab6a5f08a(CarbonActivity/View-))"
+}

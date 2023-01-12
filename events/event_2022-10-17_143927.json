@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_143927",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1875
+        ],
+        [
+          1036,
+          2029
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/action_button_secondary",
+      "checked": false,
+      "text": "Add a vehicle",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 42,
+      "size": "992*154",
+      "signature": "[class]android.widget.Button[resource_id]com.ubercab.driver:id/action_button_secondary[text]Add a vehicle[enabled,,]",
+      "view_str": "9deb41700ff27d34107a982a70514423"
+    }
+  },
+  "start_state": "9fa916fac1d709cf94a6e925e56c93a2",
+  "stop_state": "f9cb33882ca2c8284685908ff70fbfe1",
+  "event_str": "TouchEvent(state=9fa916fac1d709cf94a6e925e56c93a2, view=9deb41700ff27d34107a982a70514423(CarbonActivity/Button-Add a vehi))"
+}

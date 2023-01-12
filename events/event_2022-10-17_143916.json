@@ -1,0 +1,53 @@
+{
+  "tag": "2022-10-17_143916",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        68,
+        80,
+        93
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          22,
+          1581
+        ],
+        [
+          1058,
+          2148
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/ub__feed_recyclerview",
+      "checked": false,
+      "text": null,
+      "class": "androidx.recyclerview.widget.RecyclerView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 66,
+      "temp_id": 67,
+      "size": "1036*567",
+      "signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.ubercab.driver:id/ub__feed_recyclerview[text]None[enabled,,]",
+      "view_str": "9befa1c9a81a186afcddef83f0cd8d6d"
+    },
+    "direction": "LEFT"
+  },
+  "start_state": "06e4c04f39a3f8abf66c06e20fee8d21",
+  "stop_state": "9fa916fac1d709cf94a6e925e56c93a2",
+  "event_str": "ScrollEvent(state=06e4c04f39a3f8abf66c06e20fee8d21, view=9befa1c9a81a186afcddef83f0cd8d6d(CarbonActivity/RecyclerView-), direction=LEFT)"
+}

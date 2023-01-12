@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_151505",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1044
+        ],
+        [
+          397,
+          1099
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/ub__hourlimits_policy_header",
+      "checked": false,
+      "text": "Driving Time Policy",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 45,
+      "size": "353*55",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/ub__hourlimits_policy_header[text]Driving Time Policy[enabled,,]",
+      "view_str": "94c5eb1572989280ce072cf94205f059"
+    }
+  },
+  "start_state": "cc09f78666ba5672e9a35acabe59cd4d",
+  "stop_state": "cc09f78666ba5672e9a35acabe59cd4d",
+  "event_str": "TouchEvent(state=cc09f78666ba5672e9a35acabe59cd4d, view=94c5eb1572989280ce072cf94205f059(CarbonActivity/TextView-Driving Ti))"
+}

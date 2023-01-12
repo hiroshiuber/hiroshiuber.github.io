@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_143138",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1664
+        ],
+        [
+          1039,
+          1744
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Choose your pickup location",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 89,
+      "size": "995*80",
+      "signature": "[class]android.view.View[resource_id]None[text]Choose your pickup location[enabled,,]",
+      "view_str": "db9660ab5540ba20053a89c6aa31d8a4"
+    }
+  },
+  "start_state": "6c30b3fd2894b7c68186be2baf7e1c3a",
+  "stop_state": "6c30b3fd2894b7c68186be2baf7e1c3a",
+  "event_str": "TouchEvent(state=6c30b3fd2894b7c68186be2baf7e1c3a, view=db9660ab5540ba20053a89c6aa31d8a4(CarbonActivity/View-Choose you))"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142122",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          308,
+          1892
+        ],
+        [
+          915,
+          1950
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Affordable rides for groups up to 6",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 116,
+      "temp_id": 117,
+      "size": "607*58",
+      "signature": "[class]android.view.View[resource_id]None[text]Affordable rides for groups up to 6[enabled,,]",
+      "view_str": "ba13f2289f6bddce05dfa12da1af9e5e"
+    }
+  },
+  "start_state": "eeb519864e6293d3dadd7c27952057fc",
+  "stop_state": "eeb519864e6293d3dadd7c27952057fc",
+  "event_str": "TouchEvent(state=eeb519864e6293d3dadd7c27952057fc, view=ba13f2289f6bddce05dfa12da1af9e5e(CarbonActivity/View-Affordable))"
+}

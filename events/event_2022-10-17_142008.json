@@ -1,0 +1,49 @@
+{
+  "tag": "2022-10-17_142008",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          176,
+          470
+        ],
+        [
+          929,
+          597
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "155 Fell St",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 96,
+      "temp_id": 98,
+      "size": "753*127",
+      "signature": "[class]android.widget.EditText[resource_id]None[text]155 Fell St[enabled,,]",
+      "view_str": "751ff67ba8cae7c9bc0df14f7c9ba3a3"
+    },
+    "text": "Humanoid"
+  },
+  "start_state": "cf2322322c951efdf908e488aa6226ee",
+  "stop_state": "18766ec7e7a83273c02d1d5f8c0d9b6d",
+  "event_str": "SetTextEvent(state=cf2322322c951efdf908e488aa6226ee, view=751ff67ba8cae7c9bc0df14f7c9ba3a3(CarbonActivity/EditText-155 Fell S), text=Humanoid)"
+}

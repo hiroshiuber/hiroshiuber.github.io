@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142923",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          176,
+          1408
+        ],
+        [
+          1034,
+          1532
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Caroline H. Hume Concert Hall",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 101,
+      "temp_id": 103,
+      "size": "858*124",
+      "signature": "[class]android.widget.EditText[resource_id]None[text]Caroline H. Hume Concert Hall[enabled,,]",
+      "view_str": "5d397970a99f409df53be8d04e4a9f59"
+    }
+  },
+  "start_state": "25aba6eec81db4bdf1464b6d4a052087",
+  "stop_state": "25aba6eec81db4bdf1464b6d4a052087",
+  "event_str": "TouchEvent(state=25aba6eec81db4bdf1464b6d4a052087, view=5d397970a99f409df53be8d04e4a9f59(CarbonActivity/EditText-Caroline H))"
+}

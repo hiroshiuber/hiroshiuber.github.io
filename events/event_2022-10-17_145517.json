@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145517",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1152
+        ],
+        [
+          737,
+          1210
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "I think someone hacked my account",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 67,
+      "temp_id": 68,
+      "size": "693*58",
+      "signature": "[class]android.view.View[resource_id]None[text]I think someone hacked my account[enabled,,]",
+      "view_str": "b22c244b32e0ab4d74419fb7267ecbda"
+    }
+  },
+  "start_state": "d7afccc526bc1f1349c1dc4d06aa2c17",
+  "stop_state": "b7724bf06e4cf00703d3a6a74ceb7cca",
+  "event_str": "TouchEvent(state=d7afccc526bc1f1349c1dc4d06aa2c17, view=b22c244b32e0ab4d74419fb7267ecbda(CarbonActivity/View-I think so))"
+}

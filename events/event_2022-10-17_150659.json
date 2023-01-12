@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_150659",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Forms & Instructions | Internal Revenue Service",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Forms & Instructions | Internal Revenue Service[enabled,,]",
+      "view_str": "bb4574babdbf4159b8c2d831bb4d6dcd"
+    },
+    "direction": "DOWN"
+  },
+  "start_state": "c00cccc88c5175a489477d3569dc4968",
+  "stop_state": "115f0ad0364d67539b7ffaabe994fa67",
+  "event_str": "ScrollEvent(state=c00cccc88c5175a489477d3569dc4968, view=bb4574babdbf4159b8c2d831bb4d6dcd(CarbonActivity/WebView-Forms & In), direction=DOWN)"
+}

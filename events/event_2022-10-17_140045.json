@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140045",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1411
+        ],
+        [
+          1080,
+          1543
+        ]
+      ],
+      "resource_id": "android:id/numberpicker_input",
+      "checked": false,
+      "text": "3:45 PM",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 67,
+      "temp_id": 69,
+      "size": "1080*132",
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]3:45 PM[enabled,,]",
+      "view_str": "bbcb8bbeecc04673b77efc72370df119"
+    }
+  },
+  "start_state": "6bb2e1cebbfc00d100c941d3753acd69",
+  "stop_state": "6bb2e1cebbfc00d100c941d3753acd69",
+  "event_str": "TouchEvent(state=6bb2e1cebbfc00d100c941d3753acd69, view=bbcb8bbeecc04673b77efc72370df119(CarbonActivity/EditText-3:45 PM))"
+}

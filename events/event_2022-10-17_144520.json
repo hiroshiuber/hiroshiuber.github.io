@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144520",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1887
+        ],
+        [
+          1039,
+          2019
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "No transactions yetOnce you start driving you'll find your earnings transactions here.",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 48,
+      "size": "995*132",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "f9cd0341ee2507fc319db033b46c3840"
+    }
+  },
+  "start_state": "2a64469882a03125ecc16ffb5f494c8a",
+  "stop_state": "ad09117e2763271add2cd1fd08de25ee",
+  "event_str": "TouchEvent(state=2a64469882a03125ecc16ffb5f494c8a, view=f9cd0341ee2507fc319db033b46c3840(CarbonActivity/View-No transac))"
+}

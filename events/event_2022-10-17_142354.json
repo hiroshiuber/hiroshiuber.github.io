@@ -1,0 +1,52 @@
+{
+  "tag": "2022-10-17_142354",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        245,
+        246,
+        248
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2,
+          778
+        ],
+        [
+          1089,
+          2150
+        ]
+      ],
+      "resource_id": "paypal-overlay-uid_5627f4c6bd_mje6mjm6mja",
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 243,
+      "temp_id": 244,
+      "size": "1087*1372",
+      "signature": "[class]android.view.View[resource_id]paypal-overlay-uid_5627f4c6bd_mje6mjm6mja[text][enabled,,]",
+      "view_str": "cefe417b1fdd35c85ed30070f7cc6d62"
+    }
+  },
+  "start_state": "9bc308a5a0477ba8071af3a694d8b1be",
+  "stop_state": "9bc308a5a0477ba8071af3a694d8b1be",
+  "event_str": "TouchEvent(state=9bc308a5a0477ba8071af3a694d8b1be, view=cefe417b1fdd35c85ed30070f7cc6d62(CarbonActivity/View-))"
+}

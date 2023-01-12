@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145135",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        109
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          418
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "IRS Substitute W-9",
+      "class": "android.view.View",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 108,
+      "size": "1083*1732",
+      "signature": "[class]android.view.View[resource_id]None[text]IRS Substitute W-9[enabled,,]",
+      "view_str": "9f110ce3d4cfe155ca597c73dfd94b98"
+    },
+    "direction": "DOWN"
+  },
+  "start_state": "88df5e762a01f995ef753c6b78cbb0a3",
+  "stop_state": "88df5e762a01f995ef753c6b78cbb0a3",
+  "event_str": "ScrollEvent(state=88df5e762a01f995ef753c6b78cbb0a3, view=9f110ce3d4cfe155ca597c73dfd94b98(CarbonActivity/View-IRS Substi), direction=DOWN)"
+}

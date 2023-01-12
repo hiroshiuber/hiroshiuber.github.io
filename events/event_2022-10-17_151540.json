@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_151540",
+  "event": {
+    "event_type": "long_touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        18
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1080,
+          2148
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "1080*1977",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "29bb0be8cfa26df796cb5dc113ce9932"
+    },
+    "duration": 2000
+  },
+  "start_state": "90bf70493fbe17fa9b10dd9150ac7cc9",
+  "stop_state": "14b4785be8b5606dff8d4b0fa9a78966",
+  "event_str": "LongTouchEvent(state=90bf70493fbe17fa9b10dd9150ac7cc9, view=29bb0be8cfa26df796cb5dc113ce9932(CarbonActivity/FrameLayout-))"
+}

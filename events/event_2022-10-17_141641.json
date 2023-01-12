@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141641",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1865
+        ],
+        [
+          1083,
+          2041
+        ]
+      ],
+      "resource_id": "bui60val-5",
+      "checked": false,
+      "text": "Report map Set location on map",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 105,
+      "temp_id": 111,
+      "size": "1083*176",
+      "signature": "[class]android.view.View[resource_id]bui60val-5[text]Report map Set location on map[enabled,,]",
+      "view_str": "15b9defcd1a665789fd8a7fa7e211938"
+    }
+  },
+  "start_state": "bf7cbf65a8c98c9311a7f7674d2bc60c",
+  "stop_state": "46d62290439b39200fa32ec94bbcf0ff",
+  "event_str": "TouchEvent(state=bf7cbf65a8c98c9311a7f7674d2bc60c, view=15b9defcd1a665789fd8a7fa7e211938(CarbonActivity/View-Report map))"
+}

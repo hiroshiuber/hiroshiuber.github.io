@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140336",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          154,
+          765
+        ],
+        [
+          1036,
+          908
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/list_item_text_primary",
+      "checked": false,
+      "text": "I want to change or remove my partner",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "882*143",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/list_item_text_primary[text]I want to change or remove my partner[enabled,,]",
+      "view_str": "cd66ba4f356653baeff0e3f747e03d63"
+    }
+  },
+  "start_state": "f4f5a883f57628e2b06ef068d0f5446e",
+  "stop_state": "c329ae856791032b5eb34a9b37a1111d",
+  "event_str": "TouchEvent(state=f4f5a883f57628e2b06ef068d0f5446e, view=cd66ba4f356653baeff0e3f747e03d63(CarbonActivity/TextView-I want to ))"
+}

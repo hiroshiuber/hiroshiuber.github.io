@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145022",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Tax Information",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]Tax Information[enabled,,]",
+      "view_str": "a1c31fddc825a98dbfa9444c9f18daf5"
+    },
+    "direction": "LEFT"
+  },
+  "start_state": "b673640c24bed4016c381b968856de8d",
+  "stop_state": "b673640c24bed4016c381b968856de8d",
+  "event_str": "ScrollEvent(state=b673640c24bed4016c381b968856de8d, view=a1c31fddc825a98dbfa9444c9f18daf5(CarbonActivity/WebView-Tax Inform), direction=LEFT)"
+}

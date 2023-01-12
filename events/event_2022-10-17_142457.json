@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_142457",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          347
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Book an Uber ride using your web browser on your desktop or phone",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "1083*1803",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "53ee2892b5c414689ba4d3d71d1cd869"
+    },
+    "direction": "DOWN"
+  },
+  "start_state": "f60991b40cf340ed488de777cb37cab2",
+  "stop_state": "d679acf2633ac4e08312041811ca99f4",
+  "event_str": "ScrollEvent(state=f60991b40cf340ed488de777cb37cab2, view=53ee2892b5c414689ba4d3d71d1cd869(CarbonActivity/WebView-Book an Ub), direction=DOWN)"
+}

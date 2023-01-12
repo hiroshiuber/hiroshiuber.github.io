@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135513",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          838,
+          406
+        ],
+        [
+          1080,
+          544
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/location_editor_generic_search_item_text_button",
+      "checked": false,
+      "text": "ADD",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 38,
+      "size": "242*138",
+      "signature": "[class]android.widget.Button[resource_id]com.ubercab.driver:id/location_editor_generic_search_item_text_button[text]ADD[enabled,,]",
+      "view_str": "6789782c6a044dccd4484b05732c9228"
+    }
+  },
+  "start_state": "a9019e33f7230b4db9c265083705fd07",
+  "stop_state": "253c6cbad229445e6b6587cd5e7da409",
+  "event_str": "TouchEvent(state=a9019e33f7230b4db9c265083705fd07, view=6789782c6a044dccd4484b05732c9228(CarbonActivity/Button-ADD))"
+}

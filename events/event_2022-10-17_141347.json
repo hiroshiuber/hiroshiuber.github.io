@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141347",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          552,
+          382
+        ],
+        [
+          731,
+          487
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Log in to rider, driver, and delivery sites",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 46,
+      "temp_id": 47,
+      "size": "179*105",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Log in to rider, driver, and delivery sites[enabled,,]",
+      "view_str": "d5ab89d972dc9f1c1f354dd3a671b26f"
+    }
+  },
+  "start_state": "d86d79d98a2da67ca189a07fad8e48c3",
+  "stop_state": "d86d79d98a2da67ca189a07fad8e48c3",
+  "event_str": "TouchEvent(state=d86d79d98a2da67ca189a07fad8e48c3, view=d5ab89d972dc9f1c1f354dd3a671b26f(CarbonActivity/Button-Log in to ))"
+}

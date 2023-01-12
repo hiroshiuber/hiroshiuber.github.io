@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150222",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          1653
+        ],
+        [
+          627,
+          1711
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Other income payments.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 109,
+      "size": "457*58",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Other income payments.[enabled,,]",
+      "view_str": "850e814e58f613cc959947e24bd464a6"
+    }
+  },
+  "start_state": "6c6b9f763c517935913a25986982d9f9",
+  "stop_state": "6c6b9f763c517935913a25986982d9f9",
+  "event_str": "TouchEvent(state=6c6b9f763c517935913a25986982d9f9, view=850e814e58f613cc959947e24bd464a6(CarbonActivity/TextView-Other inco))"
+}

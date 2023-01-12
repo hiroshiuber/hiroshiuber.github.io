@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_144304",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        45
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          303
+        ],
+        [
+          1083,
+          424
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "",
+      "class": "android.view.View",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "1083*121",
+      "signature": "[class]android.view.View[resource_id]None[text][enabled,,]",
+      "view_str": "91eacb5ff2fd28d4ca42aa982408dce9"
+    },
+    "direction": "LEFT"
+  },
+  "start_state": "ea63d18673e0a04dd0b391c70a312fa5",
+  "stop_state": "82d7804e624025d04406766ddce0ca70",
+  "event_str": "ScrollEvent(state=ea63d18673e0a04dd0b391c70a312fa5, view=91eacb5ff2fd28d4ca42aa982408dce9(CarbonActivity/View-), direction=LEFT)"
+}

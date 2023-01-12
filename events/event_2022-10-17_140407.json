@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140407",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          413
+        ],
+        [
+          1036,
+          512
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/help_issue_list_standalone_title",
+      "checked": false,
+      "text": "Help with something else",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "992*99",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/help_issue_list_standalone_title[text]Help with something else[enabled,,]",
+      "view_str": "30d17c075a68c515380318672012ed08"
+    }
+  },
+  "start_state": "f4f5a883f57628e2b06ef068d0f5446e",
+  "stop_state": "f4f5a883f57628e2b06ef068d0f5446e",
+  "event_str": "TouchEvent(state=f4f5a883f57628e2b06ef068d0f5446e, view=30d17c075a68c515380318672012ed08(CarbonActivity/TextView-Help with ))"
+}

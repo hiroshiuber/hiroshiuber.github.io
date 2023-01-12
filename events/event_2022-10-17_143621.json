@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_143621",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          176,
+          1994
+        ],
+        [
+          904,
+          2082
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/status_label_leading",
+      "checked": false,
+      "text": "You're offline",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 57,
+      "temp_id": 58,
+      "size": "728*88",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/status_label_leading[text]You're offline[enabled,,]",
+      "view_str": "79fc4fc25d99b877839369b10aaf9606"
+    }
+  },
+  "start_state": "046cfb9f3bef31d068a593244211a9a4",
+  "stop_state": "e12babd9cef044e6b5a5759fa462c8dd",
+  "event_str": "TouchEvent(state=046cfb9f3bef31d068a593244211a9a4, view=79fc4fc25d99b877839369b10aaf9606(CarbonActivity/TextView-You're off))"
+}

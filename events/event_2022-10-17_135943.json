@@ -1,0 +1,52 @@
+{
+  "tag": "2022-10-17_135943",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28,
+        31,
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1413
+        ],
+        [
+          1080,
+          1708
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/inspection_sheet_container_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1080*295",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.ubercab.driver:id/inspection_sheet_container_view[text]None[enabled,,]",
+      "view_str": "5248c3fd6a8f8bb9f7dd920db3c87f2e"
+    }
+  },
+  "start_state": "73ab67293c9ae1c1d1669f0fad60ed99",
+  "stop_state": "73ab67293c9ae1c1d1669f0fad60ed99",
+  "event_str": "TouchEvent(state=73ab67293c9ae1c1d1669f0fad60ed99, view=5248c3fd6a8f8bb9f7dd920db3c87f2e(CarbonActivity/LinearLayout-))"
+}

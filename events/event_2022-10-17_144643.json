@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144643",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          739,
+          206
+        ],
+        [
+          946,
+          311
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Sign up to ride, drive, and get delivery",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "207*105",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Sign up to ride, drive, and get delivery[enabled,,]",
+      "view_str": "1a146a2825529512ffdaeb43e17ab069"
+    }
+  },
+  "start_state": "c067c1d6948cb27976e27dbab9d4df05",
+  "stop_state": "445e33c9b558dc9034a3c49f7d6b469b",
+  "event_str": "TouchEvent(state=c067c1d6948cb27976e27dbab9d4df05, view=1a146a2825529512ffdaeb43e17ab069(CarbonActivity/Button-Sign up to))"
+}

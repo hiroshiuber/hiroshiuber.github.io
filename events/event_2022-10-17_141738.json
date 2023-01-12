@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141738",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1920
+        ],
+        [
+          1083,
+          2098
+        ]
+      ],
+      "resource_id": "bui84val-1",
+      "checked": false,
+      "text": "Location marker 50 Oak St San Francisco, California",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 104,
+      "temp_id": 106,
+      "size": "1083*178",
+      "signature": "[class]android.view.View[resource_id]bui84val-1[text]None[enabled,,]",
+      "view_str": "f94c06adba7a2933c7c13a46c691e4d1"
+    }
+  },
+  "start_state": "9e05074cac69902c97ca550b88cf2316",
+  "stop_state": "0e1b4d7dbb842528bbd9d5f24d768178",
+  "event_str": "TouchEvent(state=9e05074cac69902c97ca550b88cf2316, view=f94c06adba7a2933c7c13a46c691e4d1(CarbonActivity/View-Location m))"
+}

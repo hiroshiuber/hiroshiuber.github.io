@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141015",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          690
+        ],
+        [
+          451,
+          745
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "The Uber Pro (the \u201c",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 310,
+      "temp_id": 311,
+      "size": "385*55",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]The Uber Pro (the \u201c[enabled,,]",
+      "view_str": "f309e0181ecc74becde601df22934d6c"
+    }
+  },
+  "start_state": "93e1217a112b2af726dbde5142d2744a",
+  "stop_state": "93e1217a112b2af726dbde5142d2744a",
+  "event_str": "TouchEvent(state=93e1217a112b2af726dbde5142d2744a, view=f309e0181ecc74becde601df22934d6c(CarbonActivity/TextView-The Uber P))"
+}

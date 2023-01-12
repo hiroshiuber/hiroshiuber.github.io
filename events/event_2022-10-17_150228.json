@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150228",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          71,
+          1029
+        ],
+        [
+          789,
+          1103
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "More In Forms and Instructions",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 80,
+      "temp_id": 81,
+      "size": "718*74",
+      "signature": "[class]android.view.View[resource_id]None[text]More In Forms and Instructions[enabled,,]",
+      "view_str": "879f742b06f8a380fb489ac9effaff1e"
+    }
+  },
+  "start_state": "6c6b9f763c517935913a25986982d9f9",
+  "stop_state": "6c6b9f763c517935913a25986982d9f9",
+  "event_str": "TouchEvent(state=6c6b9f763c517935913a25986982d9f9, view=879f742b06f8a380fb489ac9effaff1e(CarbonActivity/View-More In Fo))"
+}

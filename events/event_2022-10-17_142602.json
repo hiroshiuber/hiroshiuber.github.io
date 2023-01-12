@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142602",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1513
+        ],
+        [
+          1083,
+          1689
+        ]
+      ],
+      "resource_id": "bui13val-3",
+      "checked": false,
+      "text": "Restaurant Watkins Branch Bourbon & Brasserie 2708 Culver Rd, Mountain Brook",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 110,
+      "size": "1083*176",
+      "signature": "[class]android.view.View[resource_id]bui13val-3[text]None[enabled,,]",
+      "view_str": "b4b3e1a35b3806ae6b70b55becef84c4"
+    }
+  },
+  "start_state": "dbd2d9fb2d0efde616dd404475c04091",
+  "stop_state": "1b08d39da232923eb3d828083daaa900",
+  "event_str": "TouchEvent(state=dbd2d9fb2d0efde616dd404475c04091, view=b4b3e1a35b3806ae6b70b55becef84c4(CarbonActivity/View-Restaurant))"
+}

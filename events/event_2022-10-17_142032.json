@@ -1,0 +1,55 @@
+{
+  "tag": "2022-10-17_142032",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          963
+        ],
+        [
+          1083,
+          2063
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Menu",
+      "class": "android.widget.ListView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 105,
+      "temp_id": 106,
+      "size": "1083*1100",
+      "signature": "[class]android.widget.ListView[resource_id]None[text]Menu[enabled,,]",
+      "view_str": "b5420e548f72153b35fed4165d3055b5"
+    }
+  },
+  "start_state": "e91757ec7d63837dc9f9b66522989956",
+  "stop_state": "3ffb82b32bfa99245c09d86f239e4ac5",
+  "event_str": "TouchEvent(state=e91757ec7d63837dc9f9b66522989956, view=b5420e548f72153b35fed4165d3055b5(CarbonActivity/ListView-Menu))"
+}

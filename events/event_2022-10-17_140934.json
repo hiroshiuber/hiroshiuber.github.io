@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140934",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          391
+        ],
+        [
+          1039,
+          465
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "How Uber Pro Works",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "995*74",
+      "signature": "[class]android.view.View[resource_id]None[text]How Uber Pro Works[enabled,,]",
+      "view_str": "094ad781676a2280a743c9848bf84565"
+    }
+  },
+  "start_state": "05ad585c6492536dd8ea251d0b80c81b",
+  "stop_state": "05ad585c6492536dd8ea251d0b80c81b",
+  "event_str": "TouchEvent(state=05ad585c6492536dd8ea251d0b80c81b, view=094ad781676a2280a743c9848bf84565(CarbonActivity/View-How Uber P))"
+}

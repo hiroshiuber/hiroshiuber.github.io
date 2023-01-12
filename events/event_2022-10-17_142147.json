@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_142147",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          11,
+          1067
+        ],
+        [
+          198,
+          1141
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Google",
+      "class": "android.widget.Image",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 70,
+      "size": "187*74",
+      "signature": "[class]android.widget.Image[resource_id]None[text]Google[enabled,,]",
+      "view_str": "e17bb8b69d3844b7db30bec2c9a353d4"
+    }
+  },
+  "start_state": "eeb519864e6293d3dadd7c27952057fc",
+  "stop_state": "eeb519864e6293d3dadd7c27952057fc",
+  "event_str": "TouchEvent(state=eeb519864e6293d3dadd7c27952057fc, view=e17bb8b69d3844b7db30bec2c9a353d4(CarbonActivity/Image-Google))"
+}

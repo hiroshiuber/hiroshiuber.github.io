@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135613",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          198,
+          943
+        ],
+        [
+          829,
+          991
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/auto_complete_line2",
+      "checked": false,
+      "text": "Bakkerstraat, Arnhem, Netherlands",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "631*48",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/auto_complete_line2[text]Bakkerstraat, Arnhem, Netherlands[enabled,,]",
+      "view_str": "5ed1466ab490f9ac5a6a1ce78ac2f703"
+    }
+  },
+  "start_state": "b7d3f4d3999fdca862ad6971768e5a7d",
+  "stop_state": "659b5600b1f9de20777d2d00c1e427af",
+  "event_str": "TouchEvent(state=b7d3f4d3999fdca862ad6971768e5a7d, view=5ed1466ab490f9ac5a6a1ce78ac2f703(CarbonActivity/TextView-Bakkerstra))"
+}

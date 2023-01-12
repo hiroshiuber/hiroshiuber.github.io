@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141125",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          66,
+          1304
+        ],
+        [
+          1017,
+          1408
+        ]
+      ],
+      "resource_id": "bui19val-1",
+      "checked": false,
+      "text": "Bulgarian",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 68,
+      "temp_id": 70,
+      "size": "951*104",
+      "signature": "[class]android.view.View[resource_id]bui19val-1[text]Bulgarian[enabled,,]",
+      "view_str": "60852a8fab2321c19add7198611dce0c"
+    }
+  },
+  "start_state": "20e8d8d48ca0a969c9a6bd6fc8860a90",
+  "stop_state": "f755a521745d638f3f38c112568380b1",
+  "event_str": "TouchEvent(state=20e8d8d48ca0a969c9a6bd6fc8860a90, view=60852a8fab2321c19add7198611dce0c(CarbonActivity/View-Bulgarian))"
+}

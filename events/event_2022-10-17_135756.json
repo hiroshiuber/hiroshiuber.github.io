@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_135756",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1950
+        ],
+        [
+          523,
+          2104
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/destination_time_picker_cancel",
+      "checked": false,
+      "text": "Cancel",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 72,
+      "temp_id": 73,
+      "size": "479*154",
+      "signature": "[class]android.widget.Button[resource_id]com.ubercab.driver:id/destination_time_picker_cancel[text]Cancel[enabled,,]",
+      "view_str": "54d083f57f9d93e7c2fe8bf8c2971396"
+    }
+  },
+  "start_state": "833553e0490289f371408d4b67507d72",
+  "stop_state": "659b5600b1f9de20777d2d00c1e427af",
+  "event_str": "TouchEvent(state=833553e0490289f371408d4b67507d72, view=54d083f57f9d93e7c2fe8bf8c2971396(CarbonActivity/Button-Cancel))"
+}

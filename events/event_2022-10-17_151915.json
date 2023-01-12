@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_151915",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.google.android.documentsui",
+      "visible": true,
+      "checkable": true,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          365,
+          347
+        ],
+        [
+          635,
+          479
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Images",
+      "class": "com.google.android.material.chip.Chip",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 16,
+      "size": "270*132",
+      "signature": "[class]com.google.android.material.chip.Chip[resource_id]None[text]Images[enabled,,]",
+      "view_str": "0f5b63405e7b91d7109139f25307f4eb"
+    }
+  },
+  "start_state": "2f6ca67f104c87be3c133560b5e6961d",
+  "stop_state": "89a68f1679c14611d295a1bacb4dc2a7",
+  "event_str": "TouchEvent(state=2f6ca67f104c87be3c133560b5e6961d, view=0f5b63405e7b91d7109139f25307f4eb(PickActivity/Chip-Images))"
+}

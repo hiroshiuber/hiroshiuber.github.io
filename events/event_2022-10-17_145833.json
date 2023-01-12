@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_145833",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "\u0986\u09ae\u09be\u0995\u09c7 \u098f\u0995\u099f\u09bf JUMP \u09ac\u09be Lime \u099f\u09cd\u09b0\u09bf\u09aa\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0985\u09a4\u09bf\u09b0\u09bf\u0995\u09cd\u09a4 \u099a\u09be\u09b0\u09cd\u099c \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7 | Bikes & Scooters - Uber Help",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "57bc644ac98c1d0ef629963bf592777a"
+    },
+    "direction": "UP"
+  },
+  "start_state": "a430bf7865ea22aef5cb90b73fe2f86b",
+  "stop_state": "a430bf7865ea22aef5cb90b73fe2f86b",
+  "event_str": "ScrollEvent(state=a430bf7865ea22aef5cb90b73fe2f86b, view=57bc644ac98c1d0ef629963bf592777a(CarbonActivity/WebView-\u0986\u09ae\u09be\u0995\u09c7 \u098f\u0995\u099f\u09bf), direction=UP)"
+}

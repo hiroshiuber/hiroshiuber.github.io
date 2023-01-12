@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145839",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          816,
+          173
+        ],
+        [
+          1045,
+          344
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Hiroshi Mendoza",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "229*171",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Hiroshi Mendoza[enabled,,]",
+      "view_str": "ced4c1cc8669a5c99fee8cb588a37c79"
+    }
+  },
+  "start_state": "a430bf7865ea22aef5cb90b73fe2f86b",
+  "stop_state": "a430bf7865ea22aef5cb90b73fe2f86b",
+  "event_str": "TouchEvent(state=a430bf7865ea22aef5cb90b73fe2f86b, view=ced4c1cc8669a5c99fee8cb588a37c79(CarbonActivity/Button-Hiroshi Me))"
+}

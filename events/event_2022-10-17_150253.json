@@ -1,0 +1,51 @@
+{
+  "tag": "2022-10-17_150253",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          171
+        ],
+        [
+          1083,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Internal Revenue Service | An official website of the United States government",
+      "class": "android.webkit.WebView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "1083*1979",
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]",
+      "view_str": "57bc644ac98c1d0ef629963bf592777a"
+    },
+    "direction": "LEFT"
+  },
+  "start_state": "66846e36c006f1fc584b3045f0df0697",
+  "stop_state": "66846e36c006f1fc584b3045f0df0697",
+  "event_str": "ScrollEvent(state=66846e36c006f1fc584b3045f0df0697, view=57bc644ac98c1d0ef629963bf592777a(CarbonActivity/WebView-Internal R), direction=LEFT)"
+}

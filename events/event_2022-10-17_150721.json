@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_150721",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          445,
+          2076
+        ],
+        [
+          748,
+          2150
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Print",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 115,
+      "temp_id": 116,
+      "size": "303*74",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Print[enabled,,]",
+      "view_str": "7fcfb74af13adb9e78dac361ce12b3c9"
+    }
+  },
+  "start_state": "1cc5e1ef51bfaefe13efd1b43094d631",
+  "stop_state": "fb8ad91fb4cb66c333004362a8b9fb53",
+  "event_str": "TouchEvent(state=1cc5e1ef51bfaefe13efd1b43094d631, view=7fcfb74af13adb9e78dac361ce12b3c9(CarbonActivity/Button-Print))"
+}

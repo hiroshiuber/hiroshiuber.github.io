@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144613",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          209,
+          561
+        ],
+        [
+          379,
+          616
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Sign out",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 68,
+      "temp_id": 70,
+      "size": "170*55",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Sign out[enabled,,]",
+      "view_str": "3f5c5433b7d1041658b81f1a1a9f82ab"
+    }
+  },
+  "start_state": "ad09117e2763271add2cd1fd08de25ee",
+  "stop_state": "0da112a999a20f79b0d19c96235310f2",
+  "event_str": "TouchEvent(state=ad09117e2763271add2cd1fd08de25ee, view=3f5c5433b7d1041658b81f1a1a9f82ab(CarbonActivity/TextView-Sign out))"
+}

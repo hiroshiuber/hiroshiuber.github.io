@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_144530",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          123,
+          206
+        ],
+        [
+          382,
+          267
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Uber Wallet",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "259*61",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Uber Wallet[enabled,,]",
+      "view_str": "6bd0bf49ffccae8d89326b598d140d99"
+    }
+  },
+  "start_state": "ad09117e2763271add2cd1fd08de25ee",
+  "stop_state": "91405c41a2cc44f128d6d458828fd570",
+  "event_str": "TouchEvent(state=ad09117e2763271add2cd1fd08de25ee, view=6bd0bf49ffccae8d89326b598d140d99(CarbonActivity/TextView-Uber Walle))"
+}

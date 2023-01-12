@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140014",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1020
+        ],
+        [
+          806,
+          1185
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/destination_time_picker_headline",
+      "checked": false,
+      "text": "Set arrival time",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 65,
+      "size": "806*165",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/destination_time_picker_headline[text]Set arrival time[enabled,,]",
+      "view_str": "17eb078e151fcfd5752aa96025f4e960"
+    }
+  },
+  "start_state": "bc48f11a52911e4b0206311595ed4c3b",
+  "stop_state": "bc48f11a52911e4b0206311595ed4c3b",
+  "event_str": "TouchEvent(state=bc48f11a52911e4b0206311595ed4c3b, view=17eb078e151fcfd5752aa96025f4e960(CarbonActivity/TextView-Set arriva))"
+}

@@ -1,0 +1,52 @@
+{
+  "tag": "2022-10-17_135845",
+  "event": {
+    "event_type": "scroll",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        67,
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1191
+        ],
+        [
+          1080,
+          1763
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.NumberPicker",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 62,
+      "temp_id": 66,
+      "size": "1080*572",
+      "signature": "[class]android.widget.NumberPicker[resource_id]None[text]None[enabled,,]",
+      "view_str": "9d0e7b73f67249f1d80e75648b5bda16"
+    },
+    "direction": "DOWN"
+  },
+  "start_state": "833553e0490289f371408d4b67507d72",
+  "stop_state": "875b9ddcb2c35c47c5d408b42efdcd1e",
+  "event_str": "ScrollEvent(state=833553e0490289f371408d4b67507d72, view=9d0e7b73f67249f1d80e75648b5bda16(CarbonActivity/NumberPicker-), direction=DOWN)"
+}

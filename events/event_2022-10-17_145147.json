@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_145147",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          663
+        ],
+        [
+          973,
+          828
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "This verifies your business and ensures you\u2019ll get important tax documents so you\u2019re prepared for tax season.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 115,
+      "temp_id": 116,
+      "size": "929*165",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]",
+      "view_str": "9fde398e14dffd0527aea5813fc29005"
+    }
+  },
+  "start_state": "88df5e762a01f995ef753c6b78cbb0a3",
+  "stop_state": "88df5e762a01f995ef753c6b78cbb0a3",
+  "event_str": "TouchEvent(state=88df5e762a01f995ef753c6b78cbb0a3, view=9fde398e14dffd0527aea5813fc29005(CarbonActivity/TextView-This verif))"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140651",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1218
+        ],
+        [
+          1083,
+          1370
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Circle i Why acceptance rate matters Expand",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "1083*152",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Circle i Why acceptance rate matters Expand[enabled,,]",
+      "view_str": "e540aa19110fe427f978926c52f4719b"
+    }
+  },
+  "start_state": "c88de7b31e2a2416dcf4506238c945fd",
+  "stop_state": "18dea9f841f0b1637c7bc5a034d3e6ee",
+  "event_str": "TouchEvent(state=c88de7b31e2a2416dcf4506238c945fd, view=e540aa19110fe427f978926c52f4719b(CarbonActivity/Button-Circle i W))"
+}

@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_143751",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          449,
+          2027
+        ],
+        [
+          631,
+          2093
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/go_offline_text",
+      "checked": false,
+      "text": "OFFLINE",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 104,
+      "size": "182*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/go_offline_text[text]OFFLINE[enabled,,]",
+      "view_str": "9b31fc1f11ba82bf1baae8893d3d1d98"
+    }
+  },
+  "start_state": "e12babd9cef044e6b5a5759fa462c8dd",
+  "stop_state": "e12babd9cef044e6b5a5759fa462c8dd",
+  "event_str": "TouchEvent(state=e12babd9cef044e6b5a5759fa462c8dd, view=9b31fc1f11ba82bf1baae8893d3d1d98(CarbonActivity/TextView-OFFLINE))"
+}

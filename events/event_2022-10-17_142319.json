@@ -1,0 +1,50 @@
+{
+  "tag": "2022-10-17_142319",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "PayPal",
+      "children": [
+        236
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          44,
+          1980
+        ],
+        [
+          1039,
+          2107
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 234,
+      "temp_id": 235,
+      "size": "995*127",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "d7265181b7a23cfc3f13d5c9a5977ae6"
+    }
+  },
+  "start_state": "9bc308a5a0477ba8071af3a694d8b1be",
+  "stop_state": "9bc308a5a0477ba8071af3a694d8b1be",
+  "event_str": "TouchEvent(state=9bc308a5a0477ba8071af3a694d8b1be, view=d7265181b7a23cfc3f13d5c9a5977ae6(CarbonActivity/View-))"
+}

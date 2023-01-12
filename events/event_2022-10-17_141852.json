@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141852",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          985
+        ],
+        [
+          1083,
+          1161
+        ]
+      ],
+      "resource_id": "bui14val-0",
+      "checked": false,
+      "text": "Location marker 155 Fell St San Francisco, California",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 108,
+      "size": "1083*176",
+      "signature": "[class]android.view.View[resource_id]bui14val-0[text]None[enabled,,]",
+      "view_str": "0b59f786604e13577da1161341abf417"
+    }
+  },
+  "start_state": "adf9e1add557c59c99c725e26e9163c8",
+  "stop_state": "b58a58440fc9f9beab1b034b6f5ae741",
+  "event_str": "TouchEvent(state=adf9e1add557c59c99c725e26e9163c8, view=0b59f786604e13577da1161341abf417(CarbonActivity/View-Location m))"
+}

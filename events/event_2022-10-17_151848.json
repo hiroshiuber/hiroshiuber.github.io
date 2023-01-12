@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_151848",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "android",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          328,
+          1854
+        ],
+        [
+          482,
+          2008
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "154*154",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "4a64359e0eaf56e8b67bc9069816725a"
+    }
+  },
+  "start_state": "77ba3c39846947515b738143e1def2ac",
+  "stop_state": "77ba3c39846947515b738143e1def2ac",
+  "event_str": "TouchEvent(state=77ba3c39846947515b738143e1def2ac, view=4a64359e0eaf56e8b67bc9069816725a(ChooserActivity/ImageView-))"
+}

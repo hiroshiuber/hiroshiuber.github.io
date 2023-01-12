@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_141501",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1744
+        ],
+        [
+          1083,
+          1922
+        ]
+      ],
+      "resource_id": "bui27val-0",
+      "checked": false,
+      "text": "Center Allow location access For perfect pickup experience",
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 104,
+      "temp_id": 105,
+      "size": "1083*178",
+      "signature": "[class]android.view.View[resource_id]bui27val-0[text]None[enabled,,]",
+      "view_str": "e8df1981177c11182b3db3992f333c15"
+    }
+  },
+  "start_state": "d6d9fb3c6b21cabb0b709897ab94844b",
+  "stop_state": "164812fccdcfb37f2f8d87ccad5652e9",
+  "event_str": "TouchEvent(state=d6d9fb3c6b21cabb0b709897ab94844b, view=e8df1981177c11182b3db3992f333c15(CarbonActivity/View-Center All))"
+}

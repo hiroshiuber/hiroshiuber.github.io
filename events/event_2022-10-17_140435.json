@@ -1,0 +1,48 @@
+{
+  "tag": "2022-10-17_140435",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ubercab.driver",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          154,
+          996
+        ],
+        [
+          599,
+          1073
+        ]
+      ],
+      "resource_id": "com.ubercab.driver:id/list_item_text_primary",
+      "checked": false,
+      "text": "I was in an accident",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 48,
+      "size": "445*77",
+      "signature": "[class]android.widget.TextView[resource_id]com.ubercab.driver:id/list_item_text_primary[text]I was in an accident[enabled,,]",
+      "view_str": "2092337bbad75bc565397ad75475f5d0"
+    }
+  },
+  "start_state": "f4f5a883f57628e2b06ef068d0f5446e",
+  "stop_state": "20278d371fb2ce84fee2518b33db79ae",
+  "event_str": "TouchEvent(state=f4f5a883f57628e2b06ef068d0f5446e, view=2092337bbad75bc565397ad75475f5d0(CarbonActivity/TextView-I was in a))"
+}
