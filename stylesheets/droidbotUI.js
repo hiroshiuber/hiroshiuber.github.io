@@ -1,8 +1,8 @@
 var network = null;
 
 function draw() {
-  var utg_div = document.getElementById('utg_div');
-  var utg_details = document.getElementById('utg_details');
+  const utg_div = document.getElementById('utg_div');
+  const utg_details = document.getElementById('utg_details');
 
   showOverall();
 
@@ -52,6 +52,17 @@ function draw() {
 
   network = new vis.Network(utg_div, utg, options);
 
+  const loadingDiv = utg_div.appendChild(document.createElement('div'));
+  loadingDiv.className = 'loader';
+
+  const functionThatDoesWhatYouNeed = () => { 
+    // Your code
+    document.querySelector(".loader").style.display = "none";
+    network.off('afterDrawing', functionThatDoesWhatYouNeed)
+  }
+  network.on('afterDrawing', functionThatDoesWhatYouNeed)
+
+
   network.on("click", function (params) {
     if (params.nodes.length > 0) {
       node = params.nodes[0];
@@ -72,6 +83,8 @@ function draw() {
       }
     }
   });
+
+
 }
 
 function showOverall() {
